@@ -1,0 +1,1809 @@
+,City,Price range,Average price
+0,Ahmedabad,"611 - 1,71,969 / sqft","37,742.18 / sqft"
+1,Bangalore,"656 - 1,40,148 / sqft","82,905.38 / sqft"
+2,Chennai,"667 - 88,226 / sqft","46,37.19 / sqft"
+3,Delhi,"741 - 1,37,631 / sqft","56,927.32 / sqft"
+4,Ghaziabad,"634 - 83,397 / sqft","26,73.3 / sqft"
+5,Gurgaon,"640 - 94,231 / sqft","42,449.13 / sqft"
+6,Hyderabad,"641 - 75,002 / sqft","52,897.72 / sqft"
+7,Indore,"619 - 31,699 / sqft","11,513.38 / sqft"
+8,Kolkata,"646 - 1,00,034 / sqft","62,48.83 / sqft"
+9,Mumbai,"625 - 2,00,000 / sqft","1,55,65.23 / sqft"
+10,Noida,"355 - 73,879 / sqft","35,674.06 / sqft"
+11,Pune,"706 - 57,478 / sqft","44,711.5 / sqft"
+12,Jalandhar,"706 - 6,303 / sqft","4,266.82 / sqft"
+13,Lucknow,"999 - 18,511 / sqft","10,196.64 / sqft"
+14,Chandigarh,"1,197 - 33,899 / sqft","14,955.05 / sqft"
+15,Nagpur,"662 - 24,501 / sqft","19,368.06 / sqft"
+16,Coimbatore,"811 - 12,797 / sqft","8,682.13 / sqft"
+17,Goa,"2,566 - 20,833 / sqft","15,461.67 / sqft"
+18,Jaipur,"667 - 11,111 / sqft","9,584.33 / sqft"
+19,Trivandrum,"4,029 - 10,000 / sqft","6,830.47 / sqft"
+20,Kochi,"2,703 - 62,500 / sqft","28,560.44 / sqft"
+21,Bhubaneswar,"609 - 12,007 / sqft","9,416.23 / sqft"
+22,Puri,"2,462 - 5,935 / sqft","5,249.32 / sqft"
+23,Bhopal,"1,100 - 11,875 / sqft","9,343.87 / sqft"
+24,Nashik,"1,204 - 11,628 / sqft","8,138.08 / sqft"
+25,Mysore,"3,721 - 9,201 / sqft","6,569.39 / sqft"
+26,Dehradun,"1,115 - 11,538 / sqft","8,346.23 / sqft"
+27,Vadodara,"833 - 17,500 / sqft","8,803.34 / sqft"
+28,Mangalore,"914 - 10,345 / sqft","7,767.55 / sqft"
+29,Surat,"782 - 41,995 / sqft","20,913.5 / sqft"
+30,Visakhapatnam,"803 - 58,000 / sqft","25,94.14 / sqft"
+31,Anand,"1,646 - 6,100 / sqft","4,891.98 / sqft"
+32,Madurai,"1,850 - 11,176 / sqft","6,906.76 / sqft"
+33,Patna,"1,307 - 74,212 / sqft","19,44.27 / sqft"
+34,Trichy,"1,846 - 8,261 / sqft","6,215.19 / sqft"
+35,Agra,"722 - 7,813 / sqft","5,603.73 / sqft"
+36,Pondicherry,"2,469 - 13,579 / sqft","12,577.39 / sqft"
+37,Shimla,"3,000 - 75,000 / sqft","17,415.71 / sqft"
+38,Kozhikode,"3,493 - 7,000 / sqft","6,153.95 / sqft"
+39,Kanpur,"2,333 - 8,500 / sqft","7,25.85 / sqft"
+40,Meerut,"1,533 - 10,001 / sqft","6,812 / sqft"
+41,Ranchi,"2,381 - 10,455 / sqft","7,976.83 / sqft"
+42,Vellore,-,-
+43,Allahabad,"667 - 23,638 / sqft","10,293.24 / sqft"
+44,Gwalior,"1,116 - 11,000 / sqft","5,509.16 / sqft"
+45,Haridwar,"1,285 - 5,326 / sqft","4,196.97 / sqft"
+46,Kannur,"5,000 / sqft","5,000 / sqft"
+47,Varanasi,"1,918 - 9,225 / sqft","6,450.02 / sqft"
+48,Vijayawada,"2,167 - 9,292 / sqft","6,681.55 / sqft"
+49,Aurangabad,"2,167 - 9,166 / sqft","6,17.82 / sqft"
+50,Guwahati,"600 - 7,500 / sqft","6,328.62 / sqft"
+51,Jabalpur,"1,667 - 5,000 / sqft","4,256.41 / sqft"
+52,Jodhpur,"2,162 - 8,666 / sqft","5,200.25 / sqft"
+53,Kolhapur,"1,562 - 8,748 / sqft","6,149.56 / sqft"
+54,Nainital,"3,415 - 10,825 / sqft","9,164.54 / sqft"
+55,Amritsar,"2,242 - 26,928 / sqft","5,220.91 / sqft"
+56,Jamshedpur,"2,035 - 6,087 / sqft","5,657.85 / sqft"
+57,Kottayam,"3,483 / sqft","3,482.59 / sqft"
+58,Ambala,-,-
+59,Mathura,"1,000 - 9,198 / sqft","6,763.53 / sqft"
+60,Alwar,"2,000 - 3,478 / sqft","2,700.4 / sqft"
+61,Jhansi,"3,059 / sqft","3,58.82 / sqft"
+62,Faridabad,"648 - 9,091 / sqft","7,839.88 / sqft"
+63,Anantapuram,"2,894 - 5,072 / sqft","5,71.85 / sqft"
+64,Sonepat,"1,529 - 3,881 / sqft","3,569.58 / sqft"
+65,Karnal,"1,818 - 3,889 / sqft","2,906.54 / sqft"
+66,Siliguri,"1,974 - 5,885 / sqft","5,375.8 / sqft"
+67,Ooty,-,-
+68,Aligarh,"2,013 - 3,649 / sqft","3,376.45 / sqft"
+69,Thiruvannamalai,-,-
+70,Durgapur,"1,407 - 23,000 / sqft","14,882.42 / sqft"
+71,Panipat,"3,752 - 7,200 / sqft","5,183.99 / sqft"
+72,Raigad,"2,396 - 21,176 / sqft","16,197.01 / sqft"
+73,Wayanad,"5,417 / sqft","5,416.67 / sqft"
+74,Tirunelveli,"1,917 - 4,796 / sqft","4,747.89 / sqft"
+75,Ludhiana,"1,842 - 30,667 / sqft","7,704.3 / sqft"
+76,Ernakulam,"2,429 - 9,831 / sqft","6,535.33 / sqft"
+77,Arambagh,-,-
+78,Salem,"5,102 / sqft","5,102.04 / sqft"
+79,Dindigul,-,-
+80,Warangal,"2,900 - 5,000 / sqft","4,414.62 / sqft"
+81,Gulbarga,"2,388 - 4,469 / sqft","4,469.27 / sqft"
+82,Tirupati,"1,947 - 5,502 / sqft","5,463.71 / sqft"
+83,Mehsana,"1,337 - 3,158 / sqft","2,950.32 / sqft"
+84,Thrissur,"3,103 - 7,761 / sqft","6,544.96 / sqft"
+85,Satara,"1,629 - 6,250 / sqft","5,361.53 / sqft"
+86,Solapur,"1,998 - 4,625 / sqft","3,922.33 / sqft"
+87,Guntur,"2,100 - 6,667 / sqft","5,815.34 / sqft"
+88,Solan,"2,900 - 68,175 / sqft","36,595.8 / sqft"
+89,Jhajjar,"2,914 - 4,000 / sqft","3,936.79 / sqft"
+90,Bulandshahr,-,-
+91,Ganjam,-,-
+92,Bareilly,"2,875 - 4,606 / sqft","4,108.42 / sqft"
+93,Moradabad,"2,095 - 3,118 / sqft","3,118.28 / sqft"
+94,Almora,-,-
+95,Ratnagiri,"2,167 - 5,781 / sqft","4,640.01 / sqft"
+96,Mandya,"4,846 / sqft","4,845.81 / sqft"
+97,Hubli Dharwad,"3,000 - 4,964 / sqft","4,488.08 / sqft"
+98,Krishna,"4,123 / sqft","4,122.81 / sqft"
+99,Valsad,"1,161 - 8,582 / sqft","5,643.37 / sqft"
+100,Patiala,-,-
+101,Rohtak,"3,926 - 5,118 / sqft","4,522.3 / sqft"
+102,Bhavnagar,"1,604 - 3,976 / sqft","2,892.37 / sqft"
+103,Rayagada,-,-
+104,Bharuch,"1,551 - 4,270 / sqft","3,807.88 / sqft"
+105,Dausa,-,-
+106,Rishikesh,"650 - 24,000 / sqft","19,927.84 / sqft"
+107,Burdwan,"2,600 - 2,947 / sqft","2,773.68 / sqft"
+108,Udham Singh Nagar,"2,505 - 3,265 / sqft","2,885.28 / sqft"
+109,Shahjahanpur,-,-
+110,Muzaffarnagar,-,-
+111,Hisar,"2,278 - 51,220 / sqft","34,157.44 / sqft"
+112,Sirsa,-,-
+113,Chikkamagaluru,"1,667 / sqft","1,666.67 / sqft"
+114,Udupi,-,-
+115,Fatehabad,-,-
+116,Sangli,"2,000 - 5,628 / sqft","5,172.64 / sqft"
+117,Raigarh,"4,425 / sqft","4,424.78 / sqft"
+118,Parbhani,-,-
+119,Osmanabad,"2,941 / sqft","2,941.18 / sqft"
+120,Nandurbar,-,-
+121,Nanded,"2,300 / sqft","2,300 / sqft"
+122,Kurnool,"1,846 - 5,500 / sqft","5,146.22 / sqft"
+123,Nellore,"3,000 - 4,599 / sqft","4,293.02 / sqft"
+124,Nizamabad,-,-
+125,Rajahmundry,"1,959 - 5,806 / sqft","4,680.4 / sqft"
+126,Bhagalpur,"4,223 / sqft","4,223 / sqft"
+127,Raipur,"699 - 61,894 / sqft","33,749.94 / sqft"
+128,Gandhinagar,"1,764 - 15,468 / sqft","9,519.95 / sqft"
+129,Jamnagar,"2,300 - 5,906 / sqft","3,729.67 / sqft"
+130,Porbandar,"1,882 / sqft","1,882.35 / sqft"
+131,Rajkot,"2,400 - 12,037 / sqft","9,860.09 / sqft"
+132,Kurukshetra,-,-
+133,Panchkula,"1,403 - 12,190 / sqft","6,117.81 / sqft"
+134,Dharamsala,-,-
+135,Manali,-,-
+136,Jammu,-,-
+137,Srinagar,"1,200 / sqft","1,200 / sqft"
+138,Bokaro,"1,000 - 4,182 / sqft","3,650.74 / sqft"
+139,Dhanbad,"1,559 - 3,077 / sqft","2,683.28 / sqft"
+140,Bellary,-,-
+141,Bidar,-,-
+142,Dharwad,"2,459 / sqft","2,459.02 / sqft"
+143,Hubli,"3,053 - 3,478 / sqft","3,265.45 / sqft"
+144,Alappuzha,-,-
+145,Kollam,-,-
+146,Palakkad,"3,808 - 4,285 / sqft","4,285 / sqft"
+147,Ujjain,"3,333 - 4,630 / sqft","3,981.62 / sqft"
+148,Imphal,-,-
+149,Shillong,-,-
+150,Cuttack,"4,438 - 5,820 / sqft","5,422.89 / sqft"
+151,Rourkela,-,-
+152,Mohali,"773 - 87,500 / sqft","29,56.92 / sqft"
+153,Pathankot,-,-
+154,Ajmer,"2,297 - 90,909 / sqft","35,372.03 / sqft"
+155,Bhilwara,-,-
+156,Kota,"1,250 - 18,700 / sqft","7,375.13 / sqft"
+157,Udaipur,"600 - 5,133 / sqft","4,156.2 / sqft"
+158,Gangtok,-,-
+159,Erode,"1,125 - 13,448 / sqft","5,996.26 / sqft"
+160,Hosur,"4,000 / sqft","4,000 / sqft"
+161,Agartala,"3,800 / sqft","3,800 / sqft"
+162,Faizabad,-,-
+163,Gorakhpur,"1,182 - 8,590 / sqft","6,795.81 / sqft"
+164,Roorkee,"2,424 - 3,182 / sqft","3,83.91 / sqft"
+165,Rudrapur,"1,257 - 2,941 / sqft","2,941.18 / sqft"
+166,Dadra and Nagar Haveli,"2,134 - 3,750 / sqft","3,81.18 / sqft"
+167,Daman and Diu,"2,031 - 3,322 / sqft","2,676.75 / sqft"
+168,Latur,-,-
+169,Jalna,-,-
+170,Jalgaon,"3,417 - 9,091 / sqft","5,704.53 / sqft"
+171,Hingoli,-,-
+172,Gadchiroli,-,-
+173,Dhule,"4,444 / sqft","4,444.44 / sqft"
+174,Chandrapur,"600 - 3,125 / sqft","2,577.66 / sqft"
+175,Bhandara,"2,750 - 3,750 / sqft","3,250 / sqft"
+176,Amravati,"2,095 - 6,732 / sqft","4,525.15 / sqft"
+177,Akola,"1,818 - 3,667 / sqft","3,50.51 / sqft"
+178,Ahmednagar,"2,391 - 7,559 / sqft","5,923.56 / sqft"
+179,Sindhudurg,"2,125 - 7,273 / sqft","4,77.54 / sqft"
+180,Wardha,"900 - 3,663 / sqft","2,377.29 / sqft"
+181,Washim,-,-
+182,Yavatmal,-,-
+183,Kodaikanal,-,-
+184,Shirdi,"2,095 - 3,226 / sqft","3,225.81 / sqft"
+185,Zirakpur,"1,352 - 48,258 / sqft","37,422.48 / sqft"
+186,Baddi,-,-
+187,Neemrana,"1,351 - 3,565 / sqft","3,293.15 / sqft"
+188,Rewari,"3,152 - 8,889 / sqft","7,232.32 / sqft"
+189,Palwal,"2,875 - 8,333 / sqft","5,472.67 / sqft"
+190,Karur,-,-
+191,Baramati,"1,739 - 3,387 / sqft","2,562.91 / sqft"
+192,Alibaugh,"4,783 - 13,750 / sqft","10,914.02 / sqft"
+193,Saharanpur,-,-
+194,Hardoi,-,-
+195,Firozabad,-,-
+196,Rampur,-,-
+197,Etawah,-,-
+198,Hapur,-,-
+199,Gonda,-,-
+200,Basti,-,-
+201,Mirzapur,-,-
+202,Azamgarh,-,-
+203,Barabanki,"1,922 - 4,898 / sqft","4,155.99 / sqft"
+204,Bahadurgarh,"2,517 - 7,975 / sqft","4,329.43 / sqft"
+205,Nalgonda,"4,463 - 5,801 / sqft","5,619.89 / sqft"
+206,Hassan,-,-
+207,Kakinada,"2,545 - 7,752 / sqft","5,985.98 / sqft"
+208,Shimoga,-,-
+209,Proddatur,-,-
+210,Kodagu,-,-
+211,Muzaffarpur,"3,500 / sqft","3,500 / sqft"
+212,Arrah,-,-
+213,Begusarai,-,-
+214,Durg,"1,294 - 4,531 / sqft","2,872.74 / sqft"
+215,Nokha,-,-
+216,Kangra,-,-
+217,Neemuch,-,-
+218,Bolpur,"1,833 - 4,692 / sqft","3,77.07 / sqft"
+219,Dibrugarh,-,-
+220,Cuddalore,-,-
+221,Kullu,"7,574 / sqft","7,574.01 / sqft"
+222,East Godavari,"4,174 - 4,545 / sqft","4,359.68 / sqft"
+223,Tiruppur,"3,245 - 8,612 / sqft","5,928.57 / sqft"
+224,Chamarajanagar,-,-
+225,Koraput,-,-
+226,Tuticorin,"3,300 - 4,157 / sqft","4,143.44 / sqft"
+227,Pudukkottai,-,-
+228,Villupuram,-,-
+229,Dharmapuri,-,-
+230,Perambalur,-,-
+231,Chitradurga,-,-
+232,Tumakuru,-,-
+233,Greater Noida,"615 - 55,294 / sqft","14,140.73 / sqft"
+234,Balasore,"2,333 - 5,583 / sqft","5,181.86 / sqft"
+235,Bhadrak,-,-
+236,Sehore,-,-
+237,Asansol,"1,950 - 4,000 / sqft","3,451.19 / sqft"
+238,Nadia,"2,143 / sqft","2,142.86 / sqft"
+239,Pathanamthitta,-,-
+240,Kheda,"1,900 - 2,969 / sqft","2,550.77 / sqft"
+241,Belagavi,"3,194 - 17,143 / sqft","10,876.61 / sqft"
+242,Bikaner,"2,060 - 3,587 / sqft","3,46.96 / sqft"
+243,Bathinda,-,-
+244,Eluru,"3,043 - 4,390 / sqft","3,997.53 / sqft"
+245,Athens,-,-
+246,Chittoor,"3,750 / sqft","3,750 / sqft"
+247,Jajpur,"2,409 / sqft","2,409.09 / sqft"
+248,Vijayapura,-,-
+249,Rajsamand,-,-
+250,Shivamogga,-,-
+251,Kutch,-,-
+252,Kanyakumari,-,-
+253,Prakasham,-,-
+254,Kadapa,-,-
+255,Srikakulam,-,-
+256,Jharsuguda,-,-
+257,Sikar,"2,296 - 3,000 / sqft","2,863.07 / sqft"
+258,Gaya,"3,271 - 4,000 / sqft","3,756.9 / sqft"
+259,Bilaspur,"741 - 5,413 / sqft","4,70.75 / sqft"
+260,Darbhanga,-,-
+261,Darjeeling,-,-
+262,Navsari,"1,158 - 3,290 / sqft","2,825.9 / sqft"
+263,Ratlam,-,-
+264,Junagadh,"2,206 - 2,800 / sqft","2,800 / sqft"
+265,Hathras,"2,326 / sqft","2,325.58 / sqft"
+266,Deoghar,"3,505 - 6,503 / sqft","5,97.6 / sqft"
+267,Jhunjhunu,-,-
+268,Sambalpur,"2,833 - 4,063 / sqft","3,447.92 / sqft"
+269,Barnala,-,-
+270,Bankura,"3,485 / sqft","3,484.6 / sqft"
+271,Madhubani,-,-
+272,Theni,-,-
+273,Hazaribagh,"2,367 - 3,333 / sqft","2,733.33 / sqft"
+274,Pali,-,-
+275,Banswara,-,-
+276,Barmer,-,-
+277,Purulia,-,-
+278,Mewat,-,-
+279,West Godavari,"3,415 - 3,738 / sqft","3,576.25 / sqft"
+280,Thanjavur,-,-
+281,Dera Bassi,"1,649 - 4,433 / sqft","4,146.34 / sqft"
+282,Sri Ganganagar,-,-
+283,Hoshangabad,-,-
+284,Beed,"4,000 / sqft","4,000 / sqft"
+285,Haldwani,-,-
+286,Bhiwadi,"1,000 - 5,685 / sqft","4,464.59 / sqft"
+287,Aruppukkottai,-,-
+288,Bagpat,-,-
+289,Balotra,-,-
+290,Berhampur,"3,636 / sqft","3,636.36 / sqft"
+291,Cuttak,-,-
+292,Gadag,-,-
+293,Gadarwara,-,-
+294,Guruvayoor,"3,346 / sqft","3,346.46 / sqft"
+295,Hissar,-,-
+296,Jalpaiguri,"3,333 / sqft","3,333.33 / sqft"
+297,Karwar,"4,000 / sqft","4,000 / sqft"
+298,Khambhat,-,-
+299,Kulu Manali,-,-
+300,Kumhari,-,-
+301,Mahesana,"750 - 2,129 / sqft","1,843.6 / sqft"
+302,Mussoorie,-,-
+303,Patan,-,-
+304,Prakasam,"2,000 - 4,583 / sqft","3,458.33 / sqft"
+305,Tiruvannamalai,"4,167 - 8,007 / sqft","7,838.09 / sqft"
+306,Tumkur,-,-
+307,Bagru,-,-
+308,Buldana,-,-
+309,Chhindwara,-,-
+310,Adilabad,-,-
+311,Amroha,-,-
+312,Unnao,-,-
+313,Bahraich,-,-
+314,Bhatinda,-,-
+315,Bharatpur,-,-
+316,Bhiwani,-,-
+317,Burhanpur,-,-
+318,Saran,-,-
+319,Davanagere,-,-
+320,Dewas,-,-
+321,Fatehpur,-,-
+322,Guna,-,-
+323,Jaunpur,-,-
+324,Karimnagar,-,-
+325,Kasaragod,-,-
+326,Khammam,-,-
+327,Khandwa,-,-
+328,Malappuram,-,-
+329,Morbi,"2,396 - 3,333 / sqft","2,987.65 / sqft"
+330,Katni,"35,000 / sqft","35,000 / sqft"
+331,Purnia,"5,000 / sqft","5,000 / sqft"
+332,Raichur,-,-
+333,Rewa,-,-
+334,Sagar,-,-
+335,Satna,-,-
+336,Shivpuri,-,-
+337,Suryapet,-,-
+338,Thoothukudi,"1,000 / sqft","1,000 / sqft"
+339,Vizianagaram,"1,634 - 4,451 / sqft","3,659 / sqft"
+340,Yamunanagar,-,-
+341,Dharuhera,"1,111 - 5,400 / sqft","3,99.27 / sqft"
+342,Jind,-,-
+343,Kaithal,"2,778 / sqft","2,777.78 / sqft"
+344,Mithapur,-,-
+345,Rupnagar,-,-
+346,Sitapur,-,-
+347,Kushinagar,-,-
+348,Bijapur,"4,895 / sqft","4,895.1 / sqft"
+349,Gondia,-,-
+350,Krishnagiri,-,-
+351,Namakkal,-,-
+352,Sivaganga,"3,835 / sqft","3,834.95 / sqft"
+353,Nilgiris,-,-
+354,Thiruvananthapuram,"4,642 - 7,059 / sqft","5,900.27 / sqft"
+355,Jangaon,-,-
+356,Sangareddy,"4,308 / sqft","4,307.69 / sqft"
+357,Sirohi,"2,541 - 3,314 / sqft","2,927.94 / sqft"
+358,Aravalli,-,-
+359,Dungarpur,-,-
+360,Nagaur,"3,789 - 3,945 / sqft","3,867.21 / sqft"
+361,Tonk,-,-
+362,Jalore,-,-
+363,Hanumangarh,-,-
+364,Himatnagar,"1,729 - 3,438 / sqft","2,868.11 / sqft"
+365,Gudivada,-,-
+366,Dhar,-,-
+367,Jagdalpur,-,-
+368,Rajnandgaon,-,-
+369,Chhota Udepur,-,-
+370,Raisen,-,-
+371,Morinda,-,-
+372,Gondal,-,-
+373,Mandsaur,-,-
+374,Betul,-,-
+375,Boranada,-,-
+376,Surendranagar,-,-
+377,Vidisha,-,-
+378,Banaskantha,-,-
+379,Amreli,-,-
+380,Peddapalli,-,-
+381,Chapra,-,-
+382,Yadgir,-,-
+383,Daman,"2,621 - 12,552 / sqft","12,552.3 / sqft"
+384,Karaikudi,-,-
+385,Ramgarh,-,-
+386,Rajgarh,-,-
+387,Chhatarpur,-,-
+388,Purba Medinipur,"2,163 / sqft","2,162.52 / sqft"
+389,Saharsa,-,-
+390,Vaishali,-,-
+391,Chandauli,-,-
+392,Bardhaman,"6,190 / sqft","6,190.48 / sqft"
+393,Darrang,-,-
+394,Gurdaspur,-,-
+395,Alipurduar,-,-
+396,West Medinipur,"3,300 / sqft","3,300 / sqft"
+397,Damoh,-,-
+398,Faridkot,-,-
+399,Sangrur,-,-
+400,Kapurthala,-,-
+401,Bagalkot,-,-
+402,Barwani,-,-
+403,Khargone,-,-
+404,Vyara,"2,002 / sqft","2,2.36 / sqft"
+405,Chittaranjan,-,-
+406,Mancherial,-,-
+407,Jagtial,-,-
+408,Jorhat,-,-
+409,Narsinghpur,-,-
+410,Nagarkurnool,-,-
+411,Harda,-,-
+412,Agar,-,-
+413,Seoni,-,-
+414,Dahod,-,-
+415,Shajapur,-,-
+416,Shahdol,-,-
+417,Hoshiarpur,-,-
+418,Wanaparthy,-,-
+419,Jhalawar,-,-
+420,Sawai Madhopur,-,-
+421,Tikamgarh,-,-
+422,Alirajpur,-,-
+423,Balaghat,-,-
+424,Ramanagara,-,-
+425,Panchmahal,-,-
+426,Mandla,-,-
+427,Tenkasi,-,-
+428,Chittorgarh,-,-
+429,Jhabua,-,-
+430,Virudhunagar,-,-
+431,Mandi,-,-
+432,Koppal,-,-
+433,North Tripura,-,-
+434,Uttara Kannada,-,-
+435,Gir Somnath,-,-
+436,Thiruvarur,-,-
+437,Jogulamba Gadwal,-,-
+438,Bhadradri Kothagudem,-,-
+439,Muktsar,-,-
+440,Mansa,-,-
+441,Rajanna Sircilla,-,-
+442,Sabarkantha,-,-
+443,Tirupathur,-,-
+444,Tiruchirapalli,-,-
+445,Nagapattinam,-,-
+446,Umaria,-,-
+447,Lalitpur,-,-
+448,Mayiladuthurai,-,-
+449,Ariyalur,-,-
+450,Kallakurichi,-,-
+451,Ramanathapuram,-,-
+452,Ahmedabad,"1,111 - 1,00,000 / sqft","67,324.58 / sqft"
+453,Bangalore,"600 - 57,933 / sqft","31,970.91 / sqft"
+454,Chennai,"700 - 62,875 / sqft","41,623.16 / sqft"
+455,Delhi,"2,667 - 1,98,076 / sqft","1,85,187.46 / sqft"
+456,Ghaziabad,"1,273 - 20,007 / sqft","11,329.63 / sqft"
+457,Gurgaon,"3,414 - 1,64,001 / sqft","61,228.89 / sqft"
+458,Hyderabad,"654 - 1,18,492 / sqft","70,951.88 / sqft"
+459,Indore,"2,100 - 18,018 / sqft","11,312.85 / sqft"
+460,Kolkata,"600 - 25,000 / sqft","11,181.46 / sqft"
+461,Mumbai,"1,000 - 1,89,898 / sqft","77,65.48 / sqft"
+462,Noida,"819 - 37,500 / sqft","19,804.7 / sqft"
+463,Pune,"643 - 40,000 / sqft","25,234.77 / sqft"
+464,Jalandhar,"2,833 - 10,714 / sqft","7,85.88 / sqft"
+465,Lucknow,"600 - 36,800 / sqft","23,35.64 / sqft"
+466,Chandigarh,"1,555 - 25,556 / sqft","9,89.57 / sqft"
+467,Nagpur,"625 - 10,417 / sqft","6,142.72 / sqft"
+468,Coimbatore,"720 - 10,357 / sqft","7,752.13 / sqft"
+469,Goa,"2,169 - 22,811 / sqft","19,381.29 / sqft"
+470,Jaipur,"1,389 - 38,182 / sqft","16,962.13 / sqft"
+471,Trivandrum,"3,023 - 7,632 / sqft","6,260.75 / sqft"
+472,Kochi,"2,500 - 8,652 / sqft","7,550.19 / sqft"
+473,Bhubaneswar,"757 - 40,000 / sqft","23,633.32 / sqft"
+474,Puri,-,-
+475,Bhopal,"1,316 - 20,000 / sqft","13,27.01 / sqft"
+476,Nashik,"2,000 - 12,500 / sqft","5,990.72 / sqft"
+477,Mysore,"4,800 - 5,303 / sqft","5,51.52 / sqft"
+478,Dehradun,"928 - 30,000 / sqft","8,496.09 / sqft"
+479,Vadodara,"1,897 - 27,500 / sqft","15,55.19 / sqft"
+480,Mangalore,"1,362 - 7,927 / sqft","6,406.1 / sqft"
+481,Surat,"1,333 - 22,453 / sqft","6,477.42 / sqft"
+482,Visakhapatnam,"729 - 8,500 / sqft","5,253.72 / sqft"
+483,Anand,"2,890 - 5,217 / sqft","4,61.79 / sqft"
+484,Madurai,"1,000 - 8,750 / sqft","8,494.69 / sqft"
+485,Patna,"4,500 - 15,000 / sqft","8,286.29 / sqft"
+486,Trichy,"2,500 - 6,444 / sqft","5,362.61 / sqft"
+487,Agra,"1,389 - 9,722 / sqft","5,36.28 / sqft"
+488,Pondicherry,"3,542 - 4,321 / sqft","4,52.51 / sqft"
+489,Shimla,"2,083 - 13,889 / sqft","11,261.54 / sqft"
+490,Kozhikode,"3,750 - 6,500 / sqft","6,236.78 / sqft"
+491,Kanpur,"2,222 - 13,830 / sqft","9,98.99 / sqft"
+492,Meerut,"3,800 - 8,333 / sqft","6,508.48 / sqft"
+493,Ranchi,"5,814 / sqft","5,813.95 / sqft"
+494,Vellore,"2,562 - 3,888 / sqft","3,888 / sqft"
+495,Allahabad,"4,136 - 18,000 / sqft","7,806.73 / sqft"
+496,Gwalior,"3,200 - 12,000 / sqft","7,347.31 / sqft"
+497,Haridwar,"900 - 7,579 / sqft","6,161.11 / sqft"
+498,Kannur,"2,727 - 5,634 / sqft","4,632.67 / sqft"
+499,Varanasi,"2,705 - 17,333 / sqft","7,406.79 / sqft"
+500,Vijayawada,"3,542 - 10,928 / sqft","6,727.13 / sqft"
+501,Aurangabad,"3,150 - 15,231 / sqft","7,701.61 / sqft"
+502,Guwahati,"4,516 - 6,500 / sqft","5,536.44 / sqft"
+503,Jabalpur,"1,714 - 8,824 / sqft","5,63.73 / sqft"
+504,Jodhpur,"2,759 - 16,990 / sqft","5,950 / sqft"
+505,Kolhapur,"4,166 - 8,771 / sqft","6,288.75 / sqft"
+506,Nainital,"1,287 - 9,130 / sqft","7,95.77 / sqft"
+507,Amritsar,-,-
+508,Jamshedpur,"3,927 / sqft","3,927.34 / sqft"
+509,Kottayam,-,-
+510,Ambala,"19,384 / sqft","19,384 / sqft"
+511,Mathura,"889 - 1,17,647 / sqft","13,590.86 / sqft"
+512,Alwar,"2,631 / sqft","2,631 / sqft"
+513,Jhansi,"2,370 - 2,500 / sqft","2,467.59 / sqft"
+514,Faridabad,"1,420 - 34,815 / sqft","20,998 / sqft"
+515,Anantapuram,"1,103 - 1,400 / sqft","1,251.9 / sqft"
+516,Sonepat,"3,222 - 10,667 / sqft","6,655.07 / sqft"
+517,Karnal,"2,666 - 3,333 / sqft","2,908.67 / sqft"
+518,Siliguri,"12,222 / sqft","12,222.22 / sqft"
+519,Ooty,"2,803 - 22,176 / sqft","13,652.85 / sqft"
+520,Aligarh,"1,355 - 7,750 / sqft","5,234.64 / sqft"
+521,Thiruvannamalai,-,-
+522,Durgapur,"1,768 - 3,440 / sqft","3,63.33 / sqft"
+523,Panipat,"6,834 - 8,520 / sqft","8,520.18 / sqft"
+524,Raigad,"1,689 - 16,333 / sqft","6,175.6 / sqft"
+525,Wayanad,"3,438 / sqft","3,437.5 / sqft"
+526,Tirunelveli,"2,292 - 4,138 / sqft","3,130.85 / sqft"
+527,Ludhiana,"2,000 - 5,758 / sqft","4,341.45 / sqft"
+528,Ernakulam,"2,737 - 12,500 / sqft","6,250.8 / sqft"
+529,Arambagh,-,-
+530,Salem,"2,000 - 5,833 / sqft","5,508.62 / sqft"
+531,Dindigul,"2,405 / sqft","2,405.35 / sqft"
+532,Warangal,-,-
+533,Gulbarga,"3,958 / sqft","3,958 / sqft"
+534,Tirupati,"1,815 - 7,604 / sqft","6,40.43 / sqft"
+535,Mehsana,"2,998 - 10,833 / sqft","4,565.25 / sqft"
+536,Thrissur,"1,881 - 28,333 / sqft","20,340.68 / sqft"
+537,Satara,"7,000 - 10,294 / sqft","10,294.12 / sqft"
+538,Solapur,"3,000 - 4,182 / sqft","3,545.45 / sqft"
+539,Guntur,"1,455 - 9,259 / sqft","5,348.16 / sqft"
+540,Solan,"1,053 - 31,944 / sqft","22,432.6 / sqft"
+541,Jhajjar,-,-
+542,Bulandshahr,-,-
+543,Ganjam,-,-
+544,Bareilly,"1,250 - 5,737 / sqft","4,528.2 / sqft"
+545,Moradabad,"4,129 - 11,111 / sqft","7,313.13 / sqft"
+546,Almora,"4,167 / sqft","4,166.67 / sqft"
+547,Ratnagiri,"3,636 - 6,667 / sqft","5,307.08 / sqft"
+548,Mandya,-,-
+549,Hubli Dharwad,-,-
+550,Krishna,-,-
+551,Valsad,"2,000 - 3,478 / sqft","3,51.21 / sqft"
+552,Patiala,-,-
+553,Rohtak,-,-
+554,Bhavnagar,"2,583 - 5,588 / sqft","5,588.24 / sqft"
+555,Rayagada,-,-
+556,Bharuch,-,-
+557,Dausa,-,-
+558,Rishikesh,"3,000 - 14,815 / sqft","9,926.81 / sqft"
+559,Burdwan,-,-
+560,Udham Singh Nagar,"1,667 - 2,922 / sqft","2,210.85 / sqft"
+561,Shahjahanpur,-,-
+562,Muzaffarnagar,"10,417 / sqft","10,416.67 / sqft"
+563,Hisar,-,-
+564,Sirsa,-,-
+565,Chikkamagaluru,-,-
+566,Udupi,"1,600 - 6,503 / sqft","4,51.61 / sqft"
+567,Fatehabad,-,-
+568,Sangli,"1,756 / sqft","1,756 / sqft"
+569,Raigarh,-,-
+570,Parbhani,-,-
+571,Osmanabad,-,-
+572,Nandurbar,-,-
+573,Nanded,-,-
+574,Kurnool,"3,444 - 59,167 / sqft","24,165.16 / sqft"
+575,Nellore,"3,038 - 5,903 / sqft","4,470.62 / sqft"
+576,Nizamabad,-,-
+577,Rajahmundry,"4,286 / sqft","4,285.71 / sqft"
+578,Bhagalpur,-,-
+579,Raipur,"606 - 8,333 / sqft","5,552.31 / sqft"
+580,Gandhinagar,"667 - 38,867 / sqft","13,435.31 / sqft"
+581,Jamnagar,"3,600 - 10,526 / sqft","7,63.16 / sqft"
+582,Porbandar,-,-
+583,Rajkot,"3,920 - 8,333 / sqft","5,205.93 / sqft"
+584,Kurukshetra,"2,963 - 8,431 / sqft","5,696.79 / sqft"
+585,Panchkula,"4,833 - 31,111 / sqft","23,19.17 / sqft"
+586,Dharamsala,-,-
+587,Manali,-,-
+588,Jammu,-,-
+589,Srinagar,"14,400 / sqft","14,400 / sqft"
+590,Bokaro,-,-
+591,Dhanbad,"2,000 - 3,200 / sqft","3,34.94 / sqft"
+592,Bellary,-,-
+593,Bidar,"3,125 / sqft","3,125 / sqft"
+594,Dharwad,-,-
+595,Hubli,-,-
+596,Alappuzha,-,-
+597,Kollam,-,-
+598,Palakkad,"2,000 - 3,813 / sqft","3,670.77 / sqft"
+599,Ujjain,-,-
+600,Imphal,-,-
+601,Shillong,-,-
+602,Cuttack,"3,913 - 7,813 / sqft","6,130.74 / sqft"
+603,Rourkela,-,-
+604,Mohali,"1,524 - 50,688 / sqft","40,779.34 / sqft"
+605,Pathankot,-,-
+606,Ajmer,"1,600 - 79,765 / sqft","22,246.55 / sqft"
+607,Bhilwara,"3,091 - 3,542 / sqft","3,541.67 / sqft"
+608,Kota,"2,440 - 11,250 / sqft","4,507.56 / sqft"
+609,Udaipur,"2,885 - 76,128 / sqft","22,421.79 / sqft"
+610,Gangtok,-,-
+611,Erode,"604 - 3,867 / sqft","3,866.67 / sqft"
+612,Hosur,"1,650 - 5,667 / sqft","5,71.12 / sqft"
+613,Agartala,-,-
+614,Faizabad,-,-
+615,Gorakhpur,"3,421 / sqft","3,421 / sqft"
+616,Roorkee,"2,900 / sqft","2,900 / sqft"
+617,Rudrapur,"3,500 - 3,939 / sqft","3,719.7 / sqft"
+618,Dadra and Nagar Haveli,-,-
+619,Daman and Diu,-,-
+620,Latur,-,-
+621,Jalna,"2,462 / sqft","2,461.54 / sqft"
+622,Jalgaon,"6,087 / sqft","6,86.96 / sqft"
+623,Hingoli,-,-
+624,Gadchiroli,-,-
+625,Dhule,-,-
+626,Chandrapur,-,-
+627,Bhandara,-,-
+628,Amravati,"3,462 - 3,929 / sqft","3,928.57 / sqft"
+629,Akola,"2,524 - 2,857 / sqft","2,857.14 / sqft"
+630,Ahmednagar,-,-
+631,Sindhudurg,"1,929 - 9,333 / sqft","5,630.95 / sqft"
+632,Wardha,-,-
+633,Washim,-,-
+634,Yavatmal,-,-
+635,Kodaikanal,"2,424 / sqft","2,424.24 / sqft"
+636,Shirdi,-,-
+637,Zirakpur,"1,467 - 9,375 / sqft","7,652.49 / sqft"
+638,Baddi,-,-
+639,Neemrana,-,-
+640,Rewari,-,-
+641,Palwal,-,-
+642,Karur,"4,188 / sqft","4,187.5 / sqft"
+643,Baramati,-,-
+644,Alibaugh,"4,179 - 21,622 / sqft","21,621.62 / sqft"
+645,Saharanpur,889 / sqft,888.89 / sqft
+646,Hardoi,-,-
+647,Firozabad,-,-
+648,Rampur,-,-
+649,Etawah,-,-
+650,Hapur,-,-
+651,Gonda,-,-
+652,Basti,-,-
+653,Mirzapur,-,-
+654,Azamgarh,-,-
+655,Barabanki,"2,795 - 4,035 / sqft","3,857.78 / sqft"
+656,Bahadurgarh,"3,667 - 7,263 / sqft","4,909.54 / sqft"
+657,Nalgonda,-,-
+658,Hassan,-,-
+659,Kakinada,"4,810 / sqft","4,810.13 / sqft"
+660,Shimoga,"8,750 / sqft","8,750 / sqft"
+661,Proddatur,-,-
+662,Kodagu,-,-
+663,Muzaffarpur,"2,367 / sqft","2,367.33 / sqft"
+664,Arrah,-,-
+665,Begusarai,-,-
+666,Durg,"3,125 - 3,958 / sqft","3,541.67 / sqft"
+667,Nokha,-,-
+668,Kangra,-,-
+669,Neemuch,-,-
+670,Bolpur,"21,875 / sqft","21,875 / sqft"
+671,Dibrugarh,-,-
+672,Cuddalore,-,-
+673,Kullu,-,-
+674,East Godavari,-,-
+675,Tiruppur,"3,054 - 7,819 / sqft","6,191.41 / sqft"
+676,Chamarajanagar,-,-
+677,Koraput,-,-
+678,Tuticorin,-,-
+679,Pudukkottai,-,-
+680,Villupuram,"1,250 - 1,963 / sqft","1,725.31 / sqft"
+681,Dharmapuri,-,-
+682,Perambalur,-,-
+683,Chitradurga,-,-
+684,Tumakuru,-,-
+685,Greater Noida,"645 - 21,818 / sqft","11,277.96 / sqft"
+686,Balasore,"2,580 - 4,583 / sqft","3,857.67 / sqft"
+687,Bhadrak,-,-
+688,Sehore,-,-
+689,Asansol,"2,250 - 5,000 / sqft","4,112 / sqft"
+690,Nadia,"3,869 / sqft","3,869.05 / sqft"
+691,Pathanamthitta,"3,594 - 3,756 / sqft","3,674.81 / sqft"
+692,Kheda,"2,895 - 6,364 / sqft","4,629.19 / sqft"
+693,Belagavi,"4,800 / sqft","4,800 / sqft"
+694,Bikaner,-,-
+695,Bathinda,-,-
+696,Eluru,-,-
+697,Athens,-,-
+698,Chittoor,-,-
+699,Jajpur,-,-
+700,Vijayapura,-,-
+701,Rajsamand,-,-
+702,Shivamogga,-,-
+703,Kutch,"3,409 - 7,609 / sqft","5,508.89 / sqft"
+704,Kanyakumari,-,-
+705,Prakasham,-,-
+706,Kadapa,-,-
+707,Srikakulam,-,-
+708,Jharsuguda,"3,500 - 4,208 / sqft","3,735.88 / sqft"
+709,Sikar,-,-
+710,Gaya,-,-
+711,Bilaspur,"721 - 8,333 / sqft","3,401.03 / sqft"
+712,Darbhanga,-,-
+713,Darjeeling,-,-
+714,Navsari,"3,611 - 4,630 / sqft","3,865.74 / sqft"
+715,Ratlam,-,-
+716,Junagadh,-,-
+717,Hathras,"3,333 / sqft","3,333.33 / sqft"
+718,Deoghar,-,-
+719,Jhunjhunu,-,-
+720,Sambalpur,"6,843 / sqft","6,843.46 / sqft"
+721,Barnala,-,-
+722,Bankura,-,-
+723,Madhubani,-,-
+724,Theni,"3,712 / sqft","3,711.63 / sqft"
+725,Hazaribagh,-,-
+726,Pali,-,-
+727,Banswara,-,-
+728,Barmer,-,-
+729,Purulia,-,-
+730,Mewat,-,-
+731,West Godavari,-,-
+732,Thanjavur,"5,000 / sqft","5,000 / sqft"
+733,Dera Bassi,"1,974 - 5,235 / sqft","4,153.52 / sqft"
+734,Sri Ganganagar,-,-
+735,Hoshangabad,-,-
+736,Beed,-,-
+737,Haldwani,-,-
+738,Bhiwadi,"2,074 - 3,222 / sqft","3,222.22 / sqft"
+739,Aruppukkottai,-,-
+740,Bagpat,-,-
+741,Balotra,-,-
+742,Berhampur,-,-
+743,Cuttak,-,-
+744,Gadag,-,-
+745,Gadarwara,-,-
+746,Guruvayoor,"2,833 - 3,160 / sqft","3,160 / sqft"
+747,Hissar,-,-
+748,Jalpaiguri,-,-
+749,Karwar,-,-
+750,Khambhat,-,-
+751,Kulu Manali,-,-
+752,Kumhari,-,-
+753,Mahesana,"1,516 - 3,414 / sqft","3,72.6 / sqft"
+754,Mussoorie,-,-
+755,Patan,-,-
+756,Prakasam,-,-
+757,Tiruvannamalai,"900 - 7,500 / sqft","4,890.45 / sqft"
+758,Tumkur,-,-
+759,Bagru,-,-
+760,Buldana,-,-
+761,Chhindwara,-,-
+762,Adilabad,"4,318 / sqft","4,318.18 / sqft"
+763,Amroha,-,-
+764,Unnao,-,-
+765,Bahraich,-,-
+766,Bhatinda,-,-
+767,Bharatpur,-,-
+768,Bhiwani,-,-
+769,Burhanpur,-,-
+770,Saran,-,-
+771,Davanagere,-,-
+772,Dewas,-,-
+773,Fatehpur,-,-
+774,Guna,-,-
+775,Jaunpur,-,-
+776,Karimnagar,-,-
+777,Kasaragod,-,-
+778,Khammam,-,-
+779,Khandwa,-,-
+780,Malappuram,"5,684 / sqft","5,683.56 / sqft"
+781,Morbi,-,-
+782,Katni,-,-
+783,Purnia,-,-
+784,Raichur,-,-
+785,Rewa,-,-
+786,Sagar,-,-
+787,Satna,-,-
+788,Shivpuri,-,-
+789,Suryapet,-,-
+790,Thoothukudi,-,-
+791,Vizianagaram,"3,498 - 3,591 / sqft","3,544.43 / sqft"
+792,Yamunanagar,-,-
+793,Dharuhera,-,-
+794,Jind,-,-
+795,Kaithal,-,-
+796,Mithapur,-,-
+797,Rupnagar,"1,778 / sqft","1,777.78 / sqft"
+798,Sitapur,-,-
+799,Kushinagar,-,-
+800,Bijapur,-,-
+801,Gondia,-,-
+802,Krishnagiri,"3,000 - 6,267 / sqft","4,662.5 / sqft"
+803,Namakkal,"700 - 5,417 / sqft","4,831.16 / sqft"
+804,Sivaganga,-,-
+805,Nilgiris,"1,250 - 5,586 / sqft","3,810.2 / sqft"
+806,Thiruvananthapuram,"3,423 - 4,750 / sqft","3,822.64 / sqft"
+807,Jangaon,-,-
+808,Sangareddy,"3,333 - 5,603 / sqft","5,603.16 / sqft"
+809,Sirohi,"4,085 / sqft","4,85.26 / sqft"
+810,Aravalli,-,-
+811,Dungarpur,-,-
+812,Nagaur,"1,430 / sqft","1,429.59 / sqft"
+813,Tonk,-,-
+814,Jalore,-,-
+815,Hanumangarh,-,-
+816,Himatnagar,"3,000 / sqft","3,000 / sqft"
+817,Gudivada,-,-
+818,Dhar,-,-
+819,Jagdalpur,-,-
+820,Rajnandgaon,-,-
+821,Chhota Udepur,-,-
+822,Raisen,-,-
+823,Morinda,-,-
+824,Gondal,-,-
+825,Mandsaur,-,-
+826,Betul,-,-
+827,Boranada,-,-
+828,Surendranagar,-,-
+829,Vidisha,-,-
+830,Banaskantha,-,-
+831,Amreli,-,-
+832,Peddapalli,-,-
+833,Chapra,-,-
+834,Yadgir,-,-
+835,Daman,-,-
+836,Karaikudi,-,-
+837,Ramgarh,-,-
+838,Rajgarh,-,-
+839,Chhatarpur,"2,400 / sqft","2,400 / sqft"
+840,Purba Medinipur,-,-
+841,Saharsa,-,-
+842,Vaishali,-,-
+843,Chandauli,-,-
+844,Bardhaman,-,-
+845,Darrang,-,-
+846,Gurdaspur,-,-
+847,Alipurduar,-,-
+848,West Medinipur,-,-
+849,Damoh,-,-
+850,Faridkot,-,-
+851,Sangrur,-,-
+852,Kapurthala,-,-
+853,Bagalkot,-,-
+854,Barwani,-,-
+855,Khargone,-,-
+856,Vyara,-,-
+857,Chittaranjan,-,-
+858,Mancherial,-,-
+859,Jagtial,-,-
+860,Jorhat,-,-
+861,Narsinghpur,-,-
+862,Nagarkurnool,-,-
+863,Harda,-,-
+864,Agar,-,-
+865,Seoni,-,-
+866,Dahod,-,-
+867,Shajapur,-,-
+868,Shahdol,-,-
+869,Hoshiarpur,-,-
+870,Wanaparthy,-,-
+871,Jhalawar,-,-
+872,Sawai Madhopur,-,-
+873,Tikamgarh,-,-
+874,Alirajpur,-,-
+875,Balaghat,-,-
+876,Ramanagara,-,-
+877,Panchmahal,-,-
+878,Mandla,-,-
+879,Tenkasi,-,-
+880,Chittorgarh,-,-
+881,Jhabua,-,-
+882,Virudhunagar,-,-
+883,Mandi,-,-
+884,Koppal,-,-
+885,North Tripura,-,-
+886,Uttara Kannada,-,-
+887,Gir Somnath,-,-
+888,Thiruvarur,-,-
+889,Jogulamba Gadwal,-,-
+890,Bhadradri Kothagudem,-,-
+891,Muktsar,-,-
+892,Mansa,-,-
+893,Rajanna Sircilla,-,-
+894,Sabarkantha,-,-
+895,Tirupathur,-,-
+896,Tiruchirapalli,-,-
+897,Nagapattinam,-,-
+898,Umaria,-,-
+899,Lalitpur,-,-
+900,Mayiladuthurai,-,-
+901,Ariyalur,-,-
+902,Kallakurichi,-,-
+903,Ramanathapuram,-,-
+904,Ahmedabad,"100 - 66,667 / sqft","61,364.07 / sqft"
+905,Bangalore,"100 - 1,00,000 / sqft","93,574.99 / sqft"
+906,Chennai,"100 - 50,000 / sqft","41,216.67 / sqft"
+907,Delhi,"122 - 1,00,000 / sqft","1,00,000 / sqft"
+908,Ghaziabad,"132 - 50,000 / sqft","49,406.7 / sqft"
+909,Gurgaon,"100 - 1,00,000 / sqft","1,00,000 / sqft"
+910,Hyderabad,"100 - 99,751 / sqft","56,535.51 / sqft"
+911,Indore,"100 - 70,000 / sqft","58,68.61 / sqft"
+912,Kolkata,"100 - 86,667 / sqft","33,800.63 / sqft"
+913,Mumbai,"100 - 1,00,000 / sqft","75,177.44 / sqft"
+914,Noida,"100 - 1,00,000 / sqft","35,756.54 / sqft"
+915,Pune,"100 - 30,000 / sqft","28,532.41 / sqft"
+916,Jalandhar,"130 - 15,000 / sqft","13,909.94 / sqft"
+917,Lucknow,"100 - 1,00,000 / sqft","99,185.04 / sqft"
+918,Chandigarh,"139 - 50,000 / sqft","46,523.26 / sqft"
+919,Nagpur,"100 - 27,950 / sqft","26,786.76 / sqft"
+920,Coimbatore,"100 - 37,159 / sqft","35,516.24 / sqft"
+921,Goa,"688 - 25,000 / sqft","22,892.72 / sqft"
+922,Jaipur,"100 - 60,000 / sqft","60,000 / sqft"
+923,Trivandrum,"103 - 14,444 / sqft","12,257.01 / sqft"
+924,Kochi,"119 - 48,209 / sqft","30,887.55 / sqft"
+925,Bhubaneswar,"100 - 54,927 / sqft","29,22.79 / sqft"
+926,Puri,"311 - 18,181 / sqft","4,793.26 / sqft"
+927,Bhopal,"161 - 12,500 / sqft","12,53.14 / sqft"
+928,Nashik,"110 - 19,716 / sqft","15,406.95 / sqft"
+929,Mysore,"321 - 25,000 / sqft","13,269.93 / sqft"
+930,Dehradun,"115 - 55,556 / sqft","43,814.2 / sqft"
+931,Vadodara,"300 - 66,667 / sqft","64,622.51 / sqft"
+932,Mangalore,"106 - 55,483 / sqft","40,598.66 / sqft"
+933,Surat,"294 - 85,340 / sqft","79,255.29 / sqft"
+934,Visakhapatnam,"109 - 44,444 / sqft","30,742.68 / sqft"
+935,Anand,"550 - 2,913 / sqft","2,321.97 / sqft"
+936,Madurai,"103 - 20,833 / sqft","20,398.16 / sqft"
+937,Patna,"100 - 14,695 / sqft","14,14.16 / sqft"
+938,Trichy,"104 - 20,833 / sqft","19,414.68 / sqft"
+939,Agra,"111 - 10,556 / sqft","10,15.23 / sqft"
+940,Pondicherry,"160 - 4,583 / sqft","4,447.67 / sqft"
+941,Shimla,"370 - 2,881 / sqft","2,758.14 / sqft"
+942,Kozhikode,"519 - 1,00,000 / sqft","93,107.84 / sqft"
+943,Kanpur,"100 - 85,200 / sqft","80,344.09 / sqft"
+944,Meerut,"217 - 8,464 / sqft","6,896.31 / sqft"
+945,Ranchi,"195 - 15,000 / sqft","14,300.64 / sqft"
+946,Vellore,"233 - 5,000 / sqft","4,923.6 / sqft"
+947,Allahabad,"111 - 22,222 / sqft","13,694.58 / sqft"
+948,Gwalior,"138 - 10,256 / sqft","10,110.4 / sqft"
+949,Haridwar,"100 - 5,098 / sqft","4,532 / sqft"
+950,Kannur,"182 - 33,333 / sqft","20,992.83 / sqft"
+951,Varanasi,"121 - 55,556 / sqft","43,117.62 / sqft"
+952,Vijayawada,"100 - 50,000 / sqft","48,68.93 / sqft"
+953,Aurangabad,"100 - 11,419 / sqft","8,828.68 / sqft"
+954,Guwahati,"150 - 14,154 / sqft","10,522.2 / sqft"
+955,Jabalpur,"125 - 12,333 / sqft","7,567.98 / sqft"
+956,Jodhpur,"720 - 26,030 / sqft","12,76.35 / sqft"
+957,Kolhapur,"300 - 6,500 / sqft","5,540 / sqft"
+958,Nainital,"100 - 11,628 / sqft","6,793.7 / sqft"
+959,Amritsar,"222 - 26,000 / sqft","14,384.83 / sqft"
+960,Jamshedpur,"139 - 1,775 / sqft","1,716.15 / sqft"
+961,Kottayam,"149 - 1,425 / sqft","1,391.2 / sqft"
+962,Ambala,"2,778 - 22,849 / sqft","18,898.79 / sqft"
+963,Mathura,"100 - 17,500 / sqft","17,441.11 / sqft"
+964,Alwar,"833 - 2,714 / sqft","2,479.17 / sqft"
+965,Jhansi,"300 - 3,200 / sqft","3,14.29 / sqft"
+966,Faridabad,"100 - 71,200 / sqft","56,661.23 / sqft"
+967,Anantapuram,"182 - 4,825 / sqft","1,882.59 / sqft"
+968,Sonepat,"888 - 34,504 / sqft","27,725.33 / sqft"
+969,Karnal,"864 - 18,867 / sqft","18,63.18 / sqft"
+970,Siliguri,"242 - 9,136 / sqft","8,655.68 / sqft"
+971,Ooty,"500 - 19,359 / sqft","17,800.42 / sqft"
+972,Aligarh,"100 - 11,000 / sqft","11,000 / sqft"
+973,Thiruvannamalai,"460 - 1,200 / sqft","1,200 / sqft"
+974,Durgapur,"191 - 2,101 / sqft","2,21.22 / sqft"
+975,Panipat,"741 - 13,803 / sqft","8,677.82 / sqft"
+976,Raigad,"100 - 11,617 / sqft","3,482 / sqft"
+977,Wayanad,"500 - 2,323 / sqft","2,322.58 / sqft"
+978,Tirunelveli,"101 - 6,374 / sqft","3,793.98 / sqft"
+979,Ludhiana,"308 - 25,308 / sqft","15,471.19 / sqft"
+980,Ernakulam,"100 - 4,456 / sqft","4,245.1 / sqft"
+981,Arambagh,"1,110 / sqft","1,110 / sqft"
+982,Salem,"140 - 6,390 / sqft","6,294.97 / sqft"
+983,Dindigul,"100 - 3,000 / sqft","2,999.53 / sqft"
+984,Warangal,"225 - 5,000 / sqft","3,657.33 / sqft"
+985,Gulbarga,"417 - 5,599 / sqft","5,513.21 / sqft"
+986,Tirupati,"139 - 15,000 / sqft","11,985 / sqft"
+987,Mehsana,"420 - 2,579 / sqft","2,143.75 / sqft"
+988,Thrissur,"228 - 20,661 / sqft","17,538.88 / sqft"
+989,Satara,"152 - 2,500 / sqft","2,500 / sqft"
+990,Solapur,"255 - 4,000 / sqft","3,466.67 / sqft"
+991,Guntur,"100 - 1,00,000 / sqft","43,550.3 / sqft"
+992,Solan,"325 - 20,551 / sqft","18,41.17 / sqft"
+993,Jhajjar,"3,203 - 7,413 / sqft","5,421.08 / sqft"
+994,Bulandshahr,"444 - 13,734 / sqft","13,734 / sqft"
+995,Ganjam,-,-
+996,Bareilly,"100 - 63,559 / sqft","44,661.66 / sqft"
+997,Moradabad,"333 - 1,234 / sqft","1,165.23 / sqft"
+998,Almora,"155 - 1,672 / sqft","1,614.84 / sqft"
+999,Ratnagiri,"300 - 1,000 / sqft",847.55 / sqft
+1000,Mandya,"270 - 3,125 / sqft","3,125 / sqft"
+1001,Hubli Dharwad,"367 - 4,000 / sqft","2,915.66 / sqft"
+1002,Krishna,"223 - 3,330 / sqft","3,329.51 / sqft"
+1003,Valsad,"184 - 25,000 / sqft","22,267.97 / sqft"
+1004,Patiala,"287 - 11,733 / sqft","6,862.68 / sqft"
+1005,Rohtak,"1,111 - 71,839 / sqft","60,310.77 / sqft"
+1006,Bhavnagar,"1,786 / sqft","1,785.71 / sqft"
+1007,Rayagada,"2,000 / sqft","2,000 / sqft"
+1008,Bharuch,"221 - 4,224 / sqft","4,130.18 / sqft"
+1009,Dausa,-,-
+1010,Rishikesh,"123 - 80,714 / sqft","80,264.94 / sqft"
+1011,Burdwan,"100 - 2,092 / sqft","1,899.32 / sqft"
+1012,Udham Singh Nagar,"389 - 2,334 / sqft","2,333.76 / sqft"
+1013,Shahjahanpur,"464 - 1,604 / sqft","1,117.24 / sqft"
+1014,Muzaffarnagar,"545 - 4,994 / sqft","4,57.33 / sqft"
+1015,Hisar,"2,548 - 33,331 / sqft","13,904.89 / sqft"
+1016,Sirsa,"2,020 / sqft","2,020 / sqft"
+1017,Chikkamagaluru,"1,150 - 1,375 / sqft","1,262.5 / sqft"
+1018,Udupi,"670 - 47,486 / sqft","33,570.62 / sqft"
+1019,Fatehabad,-,-
+1020,Sangli,"1,533 - 2,188 / sqft","2,79.04 / sqft"
+1021,Raigarh,-,-
+1022,Parbhani,"1,600 - 3,667 / sqft","3,666.67 / sqft"
+1023,Osmanabad,251 - 632 / sqft,631.58 / sqft
+1024,Nandurbar,319 / sqft,319.44 / sqft
+1025,Nanded,"667 - 2,415 / sqft","2,415.46 / sqft"
+1026,Kurnool,"153 - 6,061 / sqft","2,382.17 / sqft"
+1027,Nellore,"104 - 6,248 / sqft","6,134.68 / sqft"
+1028,Nizamabad,"1,107 - 2,889 / sqft","2,253.51 / sqft"
+1029,Rajahmundry,"324 - 6,618 / sqft","5,123.72 / sqft"
+1030,Bhagalpur,"350 - 1,500 / sqft","1,500 / sqft"
+1031,Raipur,"100 - 59,896 / sqft","58,161.65 / sqft"
+1032,Gandhinagar,"264 - 68,306 / sqft","66,45.76 / sqft"
+1033,Jamnagar,"351 - 3,175 / sqft","2,846.2 / sqft"
+1034,Porbandar,583 / sqft,583.33 / sqft
+1035,Rajkot,"460 - 9,720 / sqft","9,68.39 / sqft"
+1036,Kurukshetra,"583 - 11,111 / sqft","5,169.81 / sqft"
+1037,Panchkula,"161 - 1,00,000 / sqft","94,518.52 / sqft"
+1038,Dharamsala,-,-
+1039,Manali,"13,528 - 14,746 / sqft","14,746 / sqft"
+1040,Jammu,"222 - 29,630 / sqft","13,329.12 / sqft"
+1041,Srinagar,370 / sqft,370 / sqft
+1042,Bokaro,300 - 923 / sqft,812.83 / sqft
+1043,Dhanbad,"152 - 2,009 / sqft","1,519.1 / sqft"
+1044,Bellary,"265 - 2,850 / sqft","2,850 / sqft"
+1045,Bidar,"1,083 / sqft","1,83.33 / sqft"
+1046,Dharwad,-,-
+1047,Hubli,"128 - 33,824 / sqft","10,770.33 / sqft"
+1048,Alappuzha,"405 - 52,096 / sqft","45,634.46 / sqft"
+1049,Kollam,"230 - 4,957 / sqft","4,182.1 / sqft"
+1050,Palakkad,"230 - 2,603 / sqft","1,989.12 / sqft"
+1051,Ujjain,"1,144 - 1,950 / sqft","1,800 / sqft"
+1052,Imphal,-,-
+1053,Shillong,-,-
+1054,Cuttack,"100 - 46,520 / sqft","19,55.17 / sqft"
+1055,Rourkela,-,-
+1056,Mohali,"120 - 86,667 / sqft","85,85.9 / sqft"
+1057,Pathankot,"402 - 1,067 / sqft","1,66.67 / sqft"
+1058,Ajmer,"100 - 5,405 / sqft","4,778.59 / sqft"
+1059,Bhilwara,625 / sqft,625 / sqft
+1060,Kota,"750 - 40,000 / sqft","29,745.39 / sqft"
+1061,Udaipur,"120 - 18,000 / sqft","16,353.68 / sqft"
+1062,Gangtok,-,-
+1063,Erode,"225 - 5,090 / sqft","4,214.82 / sqft"
+1064,Hosur,"100 - 5,267 / sqft","5,210.11 / sqft"
+1065,Agartala,-,-
+1066,Faizabad,"419 - 6,000 / sqft","5,934.03 / sqft"
+1067,Gorakhpur,"100 - 55,100 / sqft","54,329.12 / sqft"
+1068,Roorkee,"245 - 5,000 / sqft","4,228.15 / sqft"
+1069,Rudrapur,"2,000 - 2,778 / sqft","2,388.89 / sqft"
+1070,Dadra and Nagar Haveli,-,-
+1071,Daman and Diu,"3,150 - 3,160 / sqft","3,160 / sqft"
+1072,Latur,"694 - 2,100 / sqft","2,100 / sqft"
+1073,Jalna,-,-
+1074,Jalgaon,"800 - 5,000 / sqft","4,160 / sqft"
+1075,Hingoli,"560 - 4,444 / sqft","3,861.11 / sqft"
+1076,Gadchiroli,-,-
+1077,Dhule,"825 - 2,000 / sqft","1,869.44 / sqft"
+1078,Chandrapur,"200 - 1,339 / sqft","1,19.64 / sqft"
+1079,Bhandara,"2,294 / sqft","2,293.58 / sqft"
+1080,Amravati,"101 - 2,674 / sqft","2,622.55 / sqft"
+1081,Akola,"25,000 / sqft","25,000 / sqft"
+1082,Ahmednagar,"265 - 1,563 / sqft","1,35.56 / sqft"
+1083,Sindhudurg,"392 - 1,626 / sqft","1,40.32 / sqft"
+1084,Wardha,"100 - 2,078 / sqft","1,418.61 / sqft"
+1085,Washim,-,-
+1086,Yavatmal,-,-
+1087,Kodaikanal,"417 - 3,064 / sqft","1,939.13 / sqft"
+1088,Shirdi,443 - 500 / sqft,500 / sqft
+1089,Zirakpur,"400 - 44,000 / sqft","43,277.4 / sqft"
+1090,Baddi,-,-
+1091,Neemrana,"211 - 2,667 / sqft","2,600 / sqft"
+1092,Rewari,"263 - 5,925 / sqft","5,5.64 / sqft"
+1093,Palwal,"306 - 28,571 / sqft","14,523.37 / sqft"
+1094,Karur,202 / sqft,201.71 / sqft
+1095,Baramati,-,-
+1096,Alibaugh,"636 - 1,611 / sqft","1,529.82 / sqft"
+1097,Saharanpur,"356 - 4,273 / sqft","2,982 / sqft"
+1098,Hardoi,860 / sqft,860 / sqft
+1099,Firozabad,-,-
+1100,Rampur,-,-
+1101,Etawah,-,-
+1102,Hapur,"305 - 2,271 / sqft",520.19 / sqft
+1103,Gonda,"1,071 - 1,450 / sqft","1,450 / sqft"
+1104,Basti,419 - 999 / sqft,999 / sqft
+1105,Mirzapur,"110 - 2,500 / sqft","2,500 / sqft"
+1106,Azamgarh,"419 - 1,450 / sqft","1,450 / sqft"
+1107,Barabanki,"200 - 10,050 / sqft","8,419.26 / sqft"
+1108,Bahadurgarh,"1,033 - 7,651 / sqft","6,897.81 / sqft"
+1109,Nalgonda,"333 - 1,556 / sqft","1,477.12 / sqft"
+1110,Hassan,"1,100 / sqft","1,100 / sqft"
+1111,Kakinada,"170 - 26,316 / sqft","20,721.8 / sqft"
+1112,Shimoga,"2,500 - 6,000 / sqft","4,250 / sqft"
+1113,Proddatur,-,-
+1114,Kodagu,"118 - 1,148 / sqft",632.77 / sqft
+1115,Muzaffarpur,"568 - 6,250 / sqft","6,131.6 / sqft"
+1116,Arrah,-,-
+1117,Begusarai,"1,111 - 12,012 / sqft","12,012 / sqft"
+1118,Durg,"300 - 9,278 / sqft","8,866.54 / sqft"
+1119,Nokha,-,-
+1120,Kangra,"10,000 / sqft","10,000 / sqft"
+1121,Neemuch,-,-
+1122,Bolpur,125 - 900 / sqft,884.3 / sqft
+1123,Dibrugarh,-,-
+1124,Cuddalore,"600 - 5,000 / sqft","4,371.43 / sqft"
+1125,Kullu,-,-
+1126,East Godavari,"100 - 2,222 / sqft","1,797.78 / sqft"
+1127,Tiruppur,"104 - 9,152 / sqft","7,687.12 / sqft"
+1128,Chamarajanagar,-,-
+1129,Koraput,-,-
+1130,Tuticorin,"1,846 / sqft","1,846.15 / sqft"
+1131,Pudukkottai,"1,200 / sqft","1,200 / sqft"
+1132,Villupuram,"252 - 1,882 / sqft","1,483.4 / sqft"
+1133,Dharmapuri,395 - 900 / sqft,900 / sqft
+1134,Perambalur,"1,500 / sqft","1,500 / sqft"
+1135,Chitradurga,-,-
+1136,Tumakuru,"110 - 30,769 / sqft","21,679.49 / sqft"
+1137,Greater Noida,"100 - 1,00,000 / sqft","53,984.46 / sqft"
+1138,Balasore,"115 - 5,059 / sqft","4,262.06 / sqft"
+1139,Bhadrak,"345 - 1,390 / sqft","1,192.86 / sqft"
+1140,Sehore,-,-
+1141,Asansol,"120 - 30,000 / sqft","20,266.67 / sqft"
+1142,Nadia,"420 - 1,200 / sqft",810.07 / sqft
+1143,Pathanamthitta,"230 - 4,680 / sqft","3,54.31 / sqft"
+1144,Kheda,-,-
+1145,Belagavi,"122 - 2,790 / sqft","2,470.91 / sqft"
+1146,Bikaner,"688 - 2,679 / sqft","1,351.19 / sqft"
+1147,Bathinda,"827 - 5,333 / sqft","5,333.33 / sqft"
+1148,Eluru,"722 - 11,017 / sqft","7,449.32 / sqft"
+1149,Athens,-,-
+1150,Chittoor,"1,194 - 2,246 / sqft","1,720.22 / sqft"
+1151,Jajpur,-,-
+1152,Vijayapura,-,-
+1153,Rajsamand,-,-
+1154,Shivamogga,"2,100 - 4,933 / sqft","4,525.93 / sqft"
+1155,Kutch,329 / sqft,329.08 / sqft
+1156,Kanyakumari,"622 - 34,518 / sqft","14,271.65 / sqft"
+1157,Prakasham,-,-
+1158,Kadapa,641 / sqft,641.46 / sqft
+1159,Srikakulam,"667 - 9,000 / sqft","9,000 / sqft"
+1160,Jharsuguda,-,-
+1161,Sikar,"100 - 27,586 / sqft","8,316.79 / sqft"
+1162,Gaya,"350 - 1,815 / sqft","1,791.67 / sqft"
+1163,Bilaspur,"146 - 6,176 / sqft","5,680.04 / sqft"
+1164,Darbhanga,"115 - 5,417 / sqft","4,914.02 / sqft"
+1165,Darjeeling,"192 - 1,571 / sqft","1,571.43 / sqft"
+1166,Navsari,"258 - 1,613 / sqft",935.38 / sqft
+1167,Ratlam,"2,700 - 5,642 / sqft","4,170.75 / sqft"
+1168,Junagadh,-,-
+1169,Hathras,-,-
+1170,Deoghar,"3,500 / sqft","3,500 / sqft"
+1171,Jhunjhunu,-,-
+1172,Sambalpur,"103 - 2,801 / sqft","2,351.68 / sqft"
+1173,Barnala,-,-
+1174,Bankura,-,-
+1175,Madhubani,"1,579 / sqft","1,578.95 / sqft"
+1176,Theni,"1,285 / sqft","1,285 / sqft"
+1177,Hazaribagh,519 / sqft,518.52 / sqft
+1178,Pali,"1,600 - 3,000 / sqft","3,000 / sqft"
+1179,Banswara,-,-
+1180,Barmer,300 / sqft,300 / sqft
+1181,Purulia,-,-
+1182,Mewat,-,-
+1183,West Godavari,"918 - 5,909 / sqft","4,556.62 / sqft"
+1184,Thanjavur,"100 - 13,500 / sqft","13,473.59 / sqft"
+1185,Dera Bassi,"111 - 15,938 / sqft","14,960.57 / sqft"
+1186,Sri Ganganagar,"2,505 / sqft","2,505.39 / sqft"
+1187,Hoshangabad,"567 - 1,400 / sqft","1,400 / sqft"
+1188,Beed,-,-
+1189,Haldwani,"650 - 2,700 / sqft","2,571.64 / sqft"
+1190,Bhiwadi,"1,222 - 4,500 / sqft","3,700 / sqft"
+1191,Aruppukkottai,-,-
+1192,Bagpat,-,-
+1193,Balotra,-,-
+1194,Berhampur,"2,167 / sqft","2,166.67 / sqft"
+1195,Cuttak,-,-
+1196,Gadag,-,-
+1197,Gadarwara,-,-
+1198,Guruvayoor,-,-
+1199,Hissar,-,-
+1200,Jalpaiguri,-,-
+1201,Karwar,382 / sqft,382 / sqft
+1202,Khambhat,-,-
+1203,Kulu Manali,"9,857 / sqft","9,857.14 / sqft"
+1204,Kumhari,756 - 950 / sqft,932.33 / sqft
+1205,Mahesana,"1,070 - 1,852 / sqft","1,697.51 / sqft"
+1206,Mussoorie,178 - 430 / sqft,303.69 / sqft
+1207,Patan,"749 - 1,000 / sqft","1,000 / sqft"
+1208,Prakasam,"101 - 6,683 / sqft","6,526.2 / sqft"
+1209,Tiruvannamalai,"250 - 7,984 / sqft","7,144.45 / sqft"
+1210,Tumkur,"244 - 3,500 / sqft","3,500 / sqft"
+1211,Bagru,-,-
+1212,Buldana,"1,252 / sqft","1,252.19 / sqft"
+1213,Chhindwara,-,-
+1214,Adilabad,-,-
+1215,Amroha,"1,750 / sqft","1,750 / sqft"
+1216,Unnao,"278 - 2,444 / sqft","2,126.98 / sqft"
+1217,Bahraich,599 / sqft,599 / sqft
+1218,Bhatinda,-,-
+1219,Bharatpur,"1,444 - 2,500 / sqft","1,972.22 / sqft"
+1220,Bhiwani,"4,490 / sqft","4,489.8 / sqft"
+1221,Burhanpur,-,-
+1222,Saran,-,-
+1223,Davanagere,"648 - 2,778 / sqft","2,310.61 / sqft"
+1224,Dewas,"820 - 7,310 / sqft","7,310.34 / sqft"
+1225,Fatehpur,-,-
+1226,Guna,"1,500 / sqft","1,500 / sqft"
+1227,Jaunpur,"265 - 8,128 / sqft","3,175.35 / sqft"
+1228,Karimnagar,-,-
+1229,Kasaragod,-,-
+1230,Khammam,669 - 822 / sqft,822.22 / sqft
+1231,Khandwa,-,-
+1232,Malappuram,"100 - 1,837 / sqft","1,836.6 / sqft"
+1233,Morbi,-,-
+1234,Katni,-,-
+1235,Purnia,188 / sqft,187.5 / sqft
+1236,Raichur,-,-
+1237,Rewa,"1,111 - 1,500 / sqft","1,445.45 / sqft"
+1238,Sagar,-,-
+1239,Satna,191 - 533 / sqft,466.67 / sqft
+1240,Shivpuri,-,-
+1241,Suryapet,"1,831 / sqft","1,830.81 / sqft"
+1242,Thoothukudi,100 / sqft,100 / sqft
+1243,Vizianagaram,"133 - 19,000 / sqft","17,869.02 / sqft"
+1244,Yamunanagar,"111 - 10,702 / sqft","6,601.17 / sqft"
+1245,Dharuhera,"940 - 31,976 / sqft","29,956.63 / sqft"
+1246,Jind,"1,111 / sqft","1,111.11 / sqft"
+1247,Kaithal,"5,051 / sqft","5,50.51 / sqft"
+1248,Mithapur,-,-
+1249,Rupnagar,"74,813 / sqft","74,812.97 / sqft"
+1250,Sitapur,"599 - 1,450 / sqft","1,450 / sqft"
+1251,Kushinagar,"419 - 3,167 / sqft","3,125.8 / sqft"
+1252,Bijapur,"313 - 2,257 / sqft","2,256.67 / sqft"
+1253,Gondia,325 / sqft,325 / sqft
+1254,Krishnagiri,"1,099 - 2,777 / sqft","1,658.33 / sqft"
+1255,Namakkal,"222 - 8,900 / sqft","8,790.91 / sqft"
+1256,Sivaganga,483 - 875 / sqft,625 / sqft
+1257,Nilgiris,"435 - 1,000 / sqft","1,000 / sqft"
+1258,Thiruvananthapuram,"232 - 1,240 / sqft","1,240.24 / sqft"
+1259,Jangaon,"367 - 1,111 / sqft",851.85 / sqft
+1260,Sangareddy,"101 - 2,787 / sqft","2,787.09 / sqft"
+1261,Sirohi,-,-
+1262,Aravalli,-,-
+1263,Dungarpur,-,-
+1264,Nagaur,"938 - 2,300 / sqft","2,33.33 / sqft"
+1265,Tonk,115 / sqft,114.6 / sqft
+1266,Jalore,"1,059 / sqft","1,58.82 / sqft"
+1267,Hanumangarh,-,-
+1268,Himatnagar,109 - 649 / sqft,649 / sqft
+1269,Gudivada,"106 - 4,396 / sqft","4,395.6 / sqft"
+1270,Dhar,"1,616 - 2,820 / sqft","2,820 / sqft"
+1271,Jagdalpur,-,-
+1272,Rajnandgaon,551 / sqft,551 / sqft
+1273,Chhota Udepur,-,-
+1274,Raisen,-,-
+1275,Morinda,-,-
+1276,Gondal,-,-
+1277,Mandsaur,-,-
+1278,Betul,-,-
+1279,Boranada,-,-
+1280,Surendranagar,-,-
+1281,Vidisha,650 / sqft,650 / sqft
+1282,Banaskantha,599 / sqft,599 / sqft
+1283,Amreli,"1,310 / sqft","1,310.17 / sqft"
+1284,Peddapalli,-,-
+1285,Chapra,"500 - 1,833 / sqft","1,792.02 / sqft"
+1286,Yadgir,"1,111 / sqft","1,111.11 / sqft"
+1287,Daman,-,-
+1288,Karaikudi,-,-
+1289,Ramgarh,"505 - 3,103 / sqft","2,237.35 / sqft"
+1290,Rajgarh,-,-
+1291,Chhatarpur,-,-
+1292,Purba Medinipur,-,-
+1293,Saharsa,-,-
+1294,Vaishali,-,-
+1295,Chandauli,"599 - 1,176 / sqft","1,122.99 / sqft"
+1296,Bardhaman,"3,061 - 3,929 / sqft","3,495.25 / sqft"
+1297,Darrang,-,-
+1298,Gurdaspur,"1,112 / sqft","1,111.85 / sqft"
+1299,Alipurduar,-,-
+1300,West Medinipur,175 / sqft,175 / sqft
+1301,Damoh,-,-
+1302,Faridkot,-,-
+1303,Sangrur,-,-
+1304,Kapurthala,-,-
+1305,Bagalkot,-,-
+1306,Barwani,-,-
+1307,Khargone,-,-
+1308,Vyara,-,-
+1309,Chittaranjan,-,-
+1310,Mancherial,"1,000 - 12,000 / sqft","12,000 / sqft"
+1311,Jagtial,-,-
+1312,Jorhat,-,-
+1313,Narsinghpur,-,-
+1314,Nagarkurnool,-,-
+1315,Harda,-,-
+1316,Agar,833 - 899 / sqft,899 / sqft
+1317,Seoni,-,-
+1318,Dahod,-,-
+1319,Shajapur,-,-
+1320,Shahdol,-,-
+1321,Hoshiarpur,-,-
+1322,Wanaparthy,-,-
+1323,Jhalawar,-,-
+1324,Sawai Madhopur,-,-
+1325,Tikamgarh,-,-
+1326,Alirajpur,-,-
+1327,Balaghat,-,-
+1328,Ramanagara,-,-
+1329,Panchmahal,-,-
+1330,Mandla,-,-
+1331,Tenkasi,191 / sqft,191.24 / sqft
+1332,Chittorgarh,-,-
+1333,Jhabua,-,-
+1334,Virudhunagar,"1,399 - 1,500 / sqft","1,483.67 / sqft"
+1335,Mandi,-,-
+1336,Koppal,"1,000 / sqft","1,000 / sqft"
+1337,North Tripura,-,-
+1338,Uttara Kannada,-,-
+1339,Gir Somnath,-,-
+1340,Thiruvarur,-,-
+1341,Jogulamba Gadwal,-,-
+1342,Bhadradri Kothagudem,"3,917 - 4,167 / sqft","4,166.67 / sqft"
+1343,Muktsar,-,-
+1344,Mansa,-,-
+1345,Rajanna Sircilla,-,-
+1346,Sabarkantha,-,-
+1347,Tirupathur,"15,888 / sqft","15,887.85 / sqft"
+1348,Tiruchirapalli,"167 - 1,667 / sqft","1,666.67 / sqft"
+1349,Nagapattinam,-,-
+1350,Umaria,-,-
+1351,Lalitpur,-,-
+1352,Mayiladuthurai,425 / sqft,425 / sqft
+1353,Ariyalur,-,-
+1354,Kallakurichi,-,-
+1355,Ramanathapuram,-,-
+1356,Ahmedabad,"600 - 35,000 / sqft","17,733.93 / sqft"
+1357,Bangalore,"600 - 70,000 / sqft","21,984.73 / sqft"
+1358,Chennai,"645 - 26,660 / sqft","17,390.63 / sqft"
+1359,Delhi,"600 - 1,96,524 / sqft","1,46,497.57 / sqft"
+1360,Ghaziabad,"1,333 - 12,500 / sqft","10,145.74 / sqft"
+1361,Gurgaon,"1,133 - 77,075 / sqft","35,520.69 / sqft"
+1362,Hyderabad,"618 - 1,28,000 / sqft","33,418.74 / sqft"
+1363,Indore,"800 - 92,500 / sqft","53,181.88 / sqft"
+1364,Kolkata,"600 - 31,440 / sqft","15,90.75 / sqft"
+1365,Mumbai,"1,249 - 1,75,342 / sqft","75,52.65 / sqft"
+1366,Noida,"615 - 33,750 / sqft","13,640.75 / sqft"
+1367,Pune,"1,250 - 21,875 / sqft","14,611.64 / sqft"
+1368,Jalandhar,"650 - 6,250 / sqft","4,15.45 / sqft"
+1369,Lucknow,"741 - 22,703 / sqft","8,64.78 / sqft"
+1370,Chandigarh,"1,275 - 36,846 / sqft","19,235.88 / sqft"
+1371,Nagpur,"2,308 - 14,286 / sqft","8,474.07 / sqft"
+1372,Coimbatore,"1,841 - 6,818 / sqft","5,191.16 / sqft"
+1373,Goa,"767 - 6,000 / sqft","4,771.08 / sqft"
+1374,Jaipur,"1,250 - 11,111 / sqft","7,74.9 / sqft"
+1375,Trivandrum,-,-
+1376,Kochi,"3,071 - 9,090 / sqft","6,686.49 / sqft"
+1377,Bhubaneswar,"1,450 - 9,090 / sqft","8,642.7 / sqft"
+1378,Puri,"3,333 / sqft","3,333.33 / sqft"
+1379,Bhopal,"1,700 - 8,888 / sqft","3,817.94 / sqft"
+1380,Nashik,"3,463 - 7,269 / sqft","4,751.07 / sqft"
+1381,Mysore,"3,250 - 6,750 / sqft","4,892.59 / sqft"
+1382,Dehradun,"1,667 - 7,692 / sqft","5,732.08 / sqft"
+1383,Vadodara,"900 - 6,923 / sqft","5,323.96 / sqft"
+1384,Mangalore,"2,294 - 4,884 / sqft","3,588.65 / sqft"
+1385,Surat,"1,615 - 16,296 / sqft","6,288.67 / sqft"
+1386,Visakhapatnam,"3,327 - 10,870 / sqft","8,917.93 / sqft"
+1387,Anand,"3,286 / sqft","3,285.71 / sqft"
+1388,Madurai,"1,167 - 9,000 / sqft","6,324.91 / sqft"
+1389,Patna,"3,774 - 11,000 / sqft","5,840.07 / sqft"
+1390,Trichy,"1,923 / sqft","1,923.08 / sqft"
+1391,Agra,"2,000 - 7,778 / sqft","4,350.56 / sqft"
+1392,Pondicherry,-,-
+1393,Shimla,"3,000 - 8,529 / sqft","6,447.88 / sqft"
+1394,Kozhikode,"1,070 - 10,000 / sqft","5,535.17 / sqft"
+1395,Kanpur,"2,151 - 5,647 / sqft","4,951.46 / sqft"
+1396,Meerut,"1,824 - 6,750 / sqft","3,888.44 / sqft"
+1397,Ranchi,"1,000 - 26,000 / sqft","8,398.62 / sqft"
+1398,Vellore,"2,542 - 3,667 / sqft","3,104.17 / sqft"
+1399,Allahabad,"3,040 - 4,656 / sqft","4,392.58 / sqft"
+1400,Gwalior,"2,700 - 4,211 / sqft","3,455.26 / sqft"
+1401,Haridwar,"2,151 - 3,522 / sqft","3,173.64 / sqft"
+1402,Kannur,"3,000 / sqft","3,000 / sqft"
+1403,Varanasi,"3,529 - 27,143 / sqft","7,432.19 / sqft"
+1404,Vijayawada,"2,592 - 7,407 / sqft","5,777.13 / sqft"
+1405,Aurangabad,"8,333 / sqft","8,333.33 / sqft"
+1406,Guwahati,"3,599 - 9,000 / sqft","6,000 / sqft"
+1407,Jabalpur,"1,857 - 2,100 / sqft","2,93.33 / sqft"
+1408,Jodhpur,"6,923 / sqft","6,923.08 / sqft"
+1409,Kolhapur,"5,861 - 6,084 / sqft","6,83.65 / sqft"
+1410,Nainital,"3,271 - 5,548 / sqft","4,284.63 / sqft"
+1411,Amritsar,"1,774 / sqft","1,774.19 / sqft"
+1412,Jamshedpur,"2,303 / sqft","2,303 / sqft"
+1413,Kottayam,-,-
+1414,Ambala,"4,321 - 16,667 / sqft","10,722.45 / sqft"
+1415,Mathura,"2,778 - 93,220 / sqft","13,164.28 / sqft"
+1416,Alwar,"5,128 / sqft","5,128.21 / sqft"
+1417,Jhansi,-,-
+1418,Faridabad,"648 - 57,778 / sqft","26,210.09 / sqft"
+1419,Anantapuram,-,-
+1420,Sonepat,"1,555 - 8,000 / sqft","4,434.64 / sqft"
+1421,Karnal,"1,212 - 4,000 / sqft","2,817.25 / sqft"
+1422,Siliguri,"3,438 - 5,000 / sqft","3,979.17 / sqft"
+1423,Ooty,-,-
+1424,Aligarh,-,-
+1425,Thiruvannamalai,-,-
+1426,Durgapur,"2,133 - 2,493 / sqft","2,312.91 / sqft"
+1427,Panipat,"3,030 - 6,601 / sqft","6,61.61 / sqft"
+1428,Raigad,"5,000 - 7,467 / sqft","6,565.8 / sqft"
+1429,Wayanad,-,-
+1430,Tirunelveli,-,-
+1431,Ludhiana,"1,846 - 6,424 / sqft","3,816.04 / sqft"
+1432,Ernakulam,-,-
+1433,Arambagh,-,-
+1434,Salem,"3,333 / sqft","3,333.33 / sqft"
+1435,Dindigul,-,-
+1436,Warangal,"2,500 / sqft","2,500 / sqft"
+1437,Gulbarga,-,-
+1438,Tirupati,"3,733 - 14,833 / sqft","7,573.69 / sqft"
+1439,Mehsana,-,-
+1440,Thrissur,"1,786 - 4,583 / sqft","3,266.19 / sqft"
+1441,Satara,"3,158 - 5,645 / sqft","4,401.53 / sqft"
+1442,Solapur,-,-
+1443,Guntur,"1,513 - 8,727 / sqft","6,195.59 / sqft"
+1444,Solan,"4,692 - 7,917 / sqft","6,693.69 / sqft"
+1445,Jhajjar,"3,750 - 4,673 / sqft","4,516.65 / sqft"
+1446,Bulandshahr,-,-
+1447,Ganjam,-,-
+1448,Bareilly,-,-
+1449,Moradabad,"4,000 - 9,290 / sqft","4,910.59 / sqft"
+1450,Almora,-,-
+1451,Ratnagiri,"2,395 / sqft","2,395.21 / sqft"
+1452,Mandya,"2,100 / sqft","2,100 / sqft"
+1453,Hubli Dharwad,"3,853 / sqft","3,853 / sqft"
+1454,Krishna,-,-
+1455,Valsad,"1,506 - 1,593 / sqft","1,592.92 / sqft"
+1456,Patiala,"3,452 / sqft","3,451.73 / sqft"
+1457,Rohtak,967 / sqft,966.67 / sqft
+1458,Bhavnagar,-,-
+1459,Rayagada,-,-
+1460,Bharuch,-,-
+1461,Dausa,-,-
+1462,Rishikesh,-,-
+1463,Burdwan,-,-
+1464,Udham Singh Nagar,-,-
+1465,Shahjahanpur,-,-
+1466,Muzaffarnagar,-,-
+1467,Hisar,"40,000 / sqft","40,000 / sqft"
+1468,Sirsa,-,-
+1469,Chikkamagaluru,-,-
+1470,Udupi,"3,789 / sqft","3,788.82 / sqft"
+1471,Fatehabad,-,-
+1472,Sangli,"3,092 / sqft","3,91.98 / sqft"
+1473,Raigarh,-,-
+1474,Parbhani,-,-
+1475,Osmanabad,-,-
+1476,Nandurbar,-,-
+1477,Nanded,"6,188 / sqft","6,187.5 / sqft"
+1478,Kurnool,"3,800 / sqft","3,800 / sqft"
+1479,Nellore,-,-
+1480,Nizamabad,-,-
+1481,Rajahmundry,"3,367 - 4,455 / sqft","4,454.55 / sqft"
+1482,Bhagalpur,-,-
+1483,Raipur,"1,750 - 5,625 / sqft","4,395.73 / sqft"
+1484,Gandhinagar,"2,151 - 4,087 / sqft","3,118.69 / sqft"
+1485,Jamnagar,"10,526 / sqft","10,526.32 / sqft"
+1486,Porbandar,-,-
+1487,Rajkot,"1,833 - 7,692 / sqft","6,182.05 / sqft"
+1488,Kurukshetra,-,-
+1489,Panchkula,"2,142 - 76,316 / sqft","41,555.55 / sqft"
+1490,Dharamsala,-,-
+1491,Manali,-,-
+1492,Jammu,"8,636 / sqft","8,636.36 / sqft"
+1493,Srinagar,-,-
+1494,Bokaro,-,-
+1495,Dhanbad,"1,857 - 2,394 / sqft","2,125.5 / sqft"
+1496,Bellary,-,-
+1497,Bidar,-,-
+1498,Dharwad,-,-
+1499,Hubli,-,-
+1500,Alappuzha,-,-
+1501,Kollam,-,-
+1502,Palakkad,"2,367 - 3,333 / sqft","3,333.33 / sqft"
+1503,Ujjain,"2,170 / sqft","2,170.21 / sqft"
+1504,Imphal,-,-
+1505,Shillong,-,-
+1506,Cuttack,"5,085 / sqft","5,84.75 / sqft"
+1507,Rourkela,-,-
+1508,Mohali,"1,067 - 46,844 / sqft","26,845.69 / sqft"
+1509,Pathankot,-,-
+1510,Ajmer,"999 - 81,703 / sqft","51,144.35 / sqft"
+1511,Bhilwara,-,-
+1512,Kota,"3,059 - 4,500 / sqft","3,779.41 / sqft"
+1513,Udaipur,-,-
+1514,Gangtok,-,-
+1515,Erode,-,-
+1516,Hosur,"3,428 - 4,333 / sqft","3,880.67 / sqft"
+1517,Agartala,-,-
+1518,Faizabad,"11,290 / sqft","11,290 / sqft"
+1519,Gorakhpur,"3,571 / sqft","3,571.43 / sqft"
+1520,Roorkee,-,-
+1521,Rudrapur,-,-
+1522,Dadra and Nagar Haveli,-,-
+1523,Daman and Diu,-,-
+1524,Latur,-,-
+1525,Jalna,-,-
+1526,Jalgaon,-,-
+1527,Hingoli,-,-
+1528,Gadchiroli,-,-
+1529,Dhule,-,-
+1530,Chandrapur,"2,636 / sqft","2,635.66 / sqft"
+1531,Bhandara,-,-
+1532,Amravati,-,-
+1533,Akola,-,-
+1534,Ahmednagar,"3,636 - 3,864 / sqft","3,863.64 / sqft"
+1535,Sindhudurg,"4,798 - 5,172 / sqft","4,985.33 / sqft"
+1536,Wardha,-,-
+1537,Washim,-,-
+1538,Yavatmal,-,-
+1539,Kodaikanal,-,-
+1540,Shirdi,-,-
+1541,Zirakpur,"1,342 - 40,909 / sqft","21,125.95 / sqft"
+1542,Baddi,-,-
+1543,Neemrana,-,-
+1544,Rewari,"10,667 - 11,333 / sqft","11,333.33 / sqft"
+1545,Palwal,"1,587 - 8,316 / sqft","7,468.86 / sqft"
+1546,Karur,-,-
+1547,Baramati,-,-
+1548,Alibaugh,"8,667 / sqft","8,666.67 / sqft"
+1549,Saharanpur,-,-
+1550,Hardoi,-,-
+1551,Firozabad,-,-
+1552,Rampur,-,-
+1553,Etawah,-,-
+1554,Hapur,-,-
+1555,Gonda,-,-
+1556,Basti,-,-
+1557,Mirzapur,-,-
+1558,Azamgarh,-,-
+1559,Barabanki,-,-
+1560,Bahadurgarh,"3,333 - 5,909 / sqft","5,346.58 / sqft"
+1561,Nalgonda,-,-
+1562,Hassan,-,-
+1563,Kakinada,"5,555 / sqft","5,555 / sqft"
+1564,Shimoga,-,-
+1565,Proddatur,-,-
+1566,Kodagu,-,-
+1567,Muzaffarpur,-,-
+1568,Arrah,-,-
+1569,Begusarai,-,-
+1570,Durg,"1,501 - 3,612 / sqft","2,815.6 / sqft"
+1571,Nokha,-,-
+1572,Kangra,-,-
+1573,Neemuch,-,-
+1574,Bolpur,"2,333 / sqft","2,333.33 / sqft"
+1575,Dibrugarh,-,-
+1576,Cuddalore,"3,366 / sqft","3,366.49 / sqft"
+1577,Kullu,-,-
+1578,East Godavari,-,-
+1579,Tiruppur,"1,894 - 3,793 / sqft","2,843.3 / sqft"
+1580,Chamarajanagar,-,-
+1581,Koraput,-,-
+1582,Tuticorin,-,-
+1583,Pudukkottai,-,-
+1584,Villupuram,-,-
+1585,Dharmapuri,-,-
+1586,Perambalur,-,-
+1587,Chitradurga,-,-
+1588,Tumakuru,"25,000 / sqft","25,000 / sqft"
+1589,Greater Noida,"1,111 - 57,008 / sqft","7,808.77 / sqft"
+1590,Balasore,"2,941 - 5,328 / sqft","4,256.29 / sqft"
+1591,Bhadrak,-,-
+1592,Sehore,-,-
+1593,Asansol,"2,054 - 6,800 / sqft","4,427.03 / sqft"
+1594,Nadia,-,-
+1595,Pathanamthitta,-,-
+1596,Kheda,-,-
+1597,Belagavi,"3,600 - 4,800 / sqft","4,83.33 / sqft"
+1598,Bikaner,-,-
+1599,Bathinda,-,-
+1600,Eluru,"4,975 / sqft","4,975.12 / sqft"
+1601,Athens,-,-
+1602,Chittoor,-,-
+1603,Jajpur,-,-
+1604,Vijayapura,"2,667 / sqft","2,666.67 / sqft"
+1605,Rajsamand,"2,652 / sqft","2,651.52 / sqft"
+1606,Shivamogga,-,-
+1607,Kutch,-,-
+1608,Kanyakumari,-,-
+1609,Prakasham,-,-
+1610,Kadapa,-,-
+1611,Srikakulam,-,-
+1612,Jharsuguda,"3,310 / sqft","3,310.34 / sqft"
+1613,Sikar,-,-
+1614,Gaya,-,-
+1615,Bilaspur,975 / sqft,975 / sqft
+1616,Darbhanga,-,-
+1617,Darjeeling,-,-
+1618,Navsari,-,-
+1619,Ratlam,-,-
+1620,Junagadh,"3,069 / sqft","3,68.59 / sqft"
+1621,Hathras,-,-
+1622,Deoghar,-,-
+1623,Jhunjhunu,-,-
+1624,Sambalpur,-,-
+1625,Barnala,-,-
+1626,Bankura,-,-
+1627,Madhubani,-,-
+1628,Theni,"10,732 / sqft","10,731.71 / sqft"
+1629,Hazaribagh,-,-
+1630,Pali,-,-
+1631,Banswara,-,-
+1632,Barmer,"3,200 / sqft","3,200 / sqft"
+1633,Purulia,-,-
+1634,Mewat,-,-
+1635,West Godavari,"3,241 / sqft","3,240.74 / sqft"
+1636,Thanjavur,"3,586 / sqft","3,586.21 / sqft"
+1637,Dera Bassi,"1,795 - 2,899 / sqft","2,811.71 / sqft"
+1638,Sri Ganganagar,-,-
+1639,Hoshangabad,-,-
+1640,Beed,-,-
+1641,Haldwani,"2,813 - 5,725 / sqft","4,268.85 / sqft"
+1642,Bhiwadi,"1,451 - 3,200 / sqft","2,950.11 / sqft"
+1643,Aruppukkottai,-,-
+1644,Bagpat,-,-
+1645,Balotra,-,-
+1646,Berhampur,-,-
+1647,Cuttak,-,-
+1648,Gadag,-,-
+1649,Gadarwara,-,-
+1650,Guruvayoor,-,-
+1651,Hissar,-,-
+1652,Jalpaiguri,-,-
+1653,Karwar,-,-
+1654,Khambhat,-,-
+1655,Kulu Manali,"2,010 / sqft","2,010 / sqft"
+1656,Kumhari,-,-
+1657,Mahesana,-,-
+1658,Mussoorie,-,-
+1659,Patan,-,-
+1660,Prakasam,-,-
+1661,Tiruvannamalai,-,-
+1662,Tumkur,-,-
+1663,Bagru,-,-
+1664,Buldana,-,-
+1665,Chhindwara,"1,564 / sqft","1,564 / sqft"
+1666,Adilabad,-,-
+1667,Amroha,-,-
+1668,Unnao,-,-
+1669,Bahraich,-,-
+1670,Bhatinda,-,-
+1671,Bharatpur,-,-
+1672,Bhiwani,-,-
+1673,Burhanpur,-,-
+1674,Saran,-,-
+1675,Davanagere,-,-
+1676,Dewas,-,-
+1677,Fatehpur,-,-
+1678,Guna,-,-
+1679,Jaunpur,-,-
+1680,Karimnagar,-,-
+1681,Kasaragod,-,-
+1682,Khammam,-,-
+1683,Khandwa,-,-
+1684,Malappuram,-,-
+1685,Morbi,-,-
+1686,Katni,-,-
+1687,Purnia,-,-
+1688,Raichur,-,-
+1689,Rewa,"2,938 / sqft","2,937.5 / sqft"
+1690,Sagar,-,-
+1691,Satna,-,-
+1692,Shivpuri,-,-
+1693,Suryapet,-,-
+1694,Thoothukudi,-,-
+1695,Vizianagaram,"5,185 / sqft","5,185.19 / sqft"
+1696,Yamunanagar,-,-
+1697,Dharuhera,"2,323 - 3,077 / sqft","2,955.47 / sqft"
+1698,Jind,-,-
+1699,Kaithal,-,-
+1700,Mithapur,-,-
+1701,Rupnagar,-,-
+1702,Sitapur,-,-
+1703,Kushinagar,-,-
+1704,Bijapur,-,-
+1705,Gondia,-,-
+1706,Krishnagiri,-,-
+1707,Namakkal,"2,133 / sqft","2,133.33 / sqft"
+1708,Sivaganga,-,-
+1709,Nilgiris,-,-
+1710,Thiruvananthapuram,-,-
+1711,Jangaon,-,-
+1712,Sangareddy,-,-
+1713,Sirohi,-,-
+1714,Aravalli,-,-
+1715,Dungarpur,-,-
+1716,Nagaur,-,-
+1717,Tonk,-,-
+1718,Jalore,-,-
+1719,Hanumangarh,-,-
+1720,Himatnagar,-,-
+1721,Gudivada,-,-
+1722,Dhar,-,-
+1723,Jagdalpur,-,-
+1724,Rajnandgaon,-,-
+1725,Chhota Udepur,-,-
+1726,Raisen,-,-
+1727,Morinda,-,-
+1728,Gondal,-,-
+1729,Mandsaur,-,-
+1730,Betul,-,-
+1731,Boranada,-,-
+1732,Surendranagar,-,-
+1733,Vidisha,-,-
+1734,Banaskantha,-,-
+1735,Amreli,-,-
+1736,Peddapalli,-,-
+1737,Chapra,-,-
+1738,Yadgir,-,-
+1739,Daman,-,-
+1740,Karaikudi,-,-
+1741,Ramgarh,-,-
+1742,Rajgarh,-,-
+1743,Chhatarpur,-,-
+1744,Purba Medinipur,-,-
+1745,Saharsa,-,-
+1746,Vaishali,-,-
+1747,Chandauli,-,-
+1748,Bardhaman,-,-
+1749,Darrang,-,-
+1750,Gurdaspur,-,-
+1751,Alipurduar,-,-
+1752,West Medinipur,-,-
+1753,Damoh,-,-
+1754,Faridkot,-,-
+1755,Sangrur,-,-
+1756,Kapurthala,-,-
+1757,Bagalkot,-,-
+1758,Barwani,-,-
+1759,Khargone,-,-
+1760,Vyara,-,-
+1761,Chittaranjan,-,-
+1762,Mancherial,-,-
+1763,Jagtial,-,-
+1764,Jorhat,-,-
+1765,Narsinghpur,-,-
+1766,Nagarkurnool,-,-
+1767,Harda,-,-
+1768,Agar,-,-
+1769,Seoni,-,-
+1770,Dahod,-,-
+1771,Shajapur,-,-
+1772,Shahdol,-,-
+1773,Hoshiarpur,-,-
+1774,Wanaparthy,-,-
+1775,Jhalawar,-,-
+1776,Sawai Madhopur,-,-
+1777,Tikamgarh,-,-
+1778,Alirajpur,-,-
+1779,Balaghat,-,-
+1780,Ramanagara,-,-
+1781,Panchmahal,-,-
+1782,Mandla,-,-
+1783,Tenkasi,-,-
+1784,Chittorgarh,-,-
+1785,Jhabua,-,-
+1786,Virudhunagar,-,-
+1787,Mandi,"1,083 / sqft","1,83.33 / sqft"
+1788,Koppal,-,-
+1789,North Tripura,-,-
+1790,Uttara Kannada,-,-
+1791,Gir Somnath,-,-
+1792,Thiruvarur,-,-
+1793,Jogulamba Gadwal,-,-
+1794,Bhadradri Kothagudem,-,-
+1795,Muktsar,-,-
+1796,Mansa,-,-
+1797,Rajanna Sircilla,-,-
+1798,Sabarkantha,-,-
+1799,Tirupathur,-,-
+1800,Tiruchirapalli,-,-
+1801,Nagapattinam,-,-
+1802,Umaria,-,-
+1803,Lalitpur,-,-
+1804,Mayiladuthurai,-,-
+1805,Ariyalur,-,-
+1806,Kallakurichi,-,-
+1807,Ramanathapuram,-,-
